@@ -9,9 +9,13 @@
                }],
 "sites":[
     
+    {"key": " 小跳影视","name": "🎖┃小跳影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://pan.xtdy.cc/vodtype/{cateId}/page/{catePg}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#网络短剧$32#"}},
+    
+    
    {"key": " 西屋影视","name": "🎖┃西屋影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.xiwutv.com/vodtype/{cateId}/page/{catePg}.html","分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51#"} },
   
-      
+     
+ {"key": "csp_mgtva","name": "🎖┃木瓜影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","ext": {"分类url": "https://www.muguatva.com/s/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "dianying&lianxuju&zongyi&dongman"}},
       
         {
       "key": " 阿文影视",

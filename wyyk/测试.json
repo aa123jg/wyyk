@@ -9,6 +9,9 @@
                }],
 "sites":[
     
+    {"key": " 小跳影视","name": "🎖┃小跳影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://pan.xtdy.cc/vodtype/{cateId}/page/{catePg}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#网络短剧$32#"}},
+    
+    
    {"key": " 西屋影视","name": "🎖┃西屋影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.xiwutv.com/vodtype/{cateId}/page/{catePg}.html","分类": "电影$20#电视剧$30#动漫$40#综艺$45#体育$51#"} },
   
      
@@ -225,26 +228,19 @@
 ],
 
 "parses":[
-{"name":"主线","type":0,"url":"https://www.tdys.cc/play/?url="},
-{"name":"虾米","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"麒麟","type":0,"url":"https://t1.qlplayer.cyou/player/?url="},
-{"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},{"name":"-看看-","type":0,"url":"https://jx.m3u8.pw/?url="},
-{"name":"-夜幕-","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
-{"name":"-巧技-","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},
-{"name":"巧技二","type":1,"url":"http://pan.qiaoji8.com/tvbox/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"]}},
-{"name":"-xyz-","type":0,"url":"https://svip.cygc.xyz/api/?key=cygctest&url="},
-{"name":"-bozrc-","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
-{"name":"-xmflv-","type":0,"url":"https://jx.xmflv.com/?url="},
-{"name":"-微微-","type":0,"url":"https://cdn.centos.chat/video-player/weisuan/?url=","ext":{"flag":["360","qq","腾讯","企鹅","IQiYi","qiyi","爱奇艺","奇艺","youku","YouKu","优酷","sohu","SoHu","搜狐","letv","LeShi","乐视","imgo","mgtv","MangGuo","芒果","SLYS4k","BYGA","luanzi","AliS","dxzy","bilibili","QEYSS","xigua","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频"],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},
-{"name":"-全看-","type":0,"url":"https://jx.quankan.app/?url="},
-{"name":"-王-","type":1,"url":"http://43.136.176.188:91/api/?key=f99226916774bfa29c9af99b2c736fd9&url="},
-{"name":"-二-","type":1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
-{"name":"-小-","type":1,"url":"http://xxjx.qqwx.ren/?url="},
-{"name":"-帅-","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url="},
-{"name":"超级嗅探","type":3,"url":"Web"},
-{"name":"夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="},
-{"name":"-左岸-","type":1,"url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="}],
+ {"name":"-精选1-","type":0,"url":"https://player.bingdou.vip/?pass=14&url="},
+ {"name":"-精选2-","type":0,"url":"https://bd.jx.cn/?url="},
+ {"name": "宝莲","type": 0,"url": "http://danmu.8old.cn/vip/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩" ]}},
+ {"name":"-虾米-","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}, 
+ {"name": "虾米2","url": "https://jx.xmflv.cc/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"}},	
+ {"name": "虾米3","url": "https://jx.xmflv.com/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"}},
+ {"name":"-爱看-","type":0,"url":"https://www.yemu.xyz/?url="},
+ {"name":"-桃子-","type":0,"url":"http://47.108.219.167xmflv/?url="},
+ {"name":"-看看-","type":0,"url":"https://jx.m3u8.pw/?url="},
+ {"name":"-夜幕-","type":0,"url":"https://www.yemu.xyz/?url="},
+ {"name":"-777-","type":0,"url":"https://jx.777jiexi.com/player/?url="},
+ {"name":"-巧技-","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}}
+ ],
 
 "doh":[
 {"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},
