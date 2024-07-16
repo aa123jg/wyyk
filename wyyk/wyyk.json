@@ -22,7 +22,7 @@
  
   { "key": "hbo影视", "name": "🎖┃HBO影视", "type":3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar", "ext": {"分类url":"https://www.hbotv1.com/{cateId}/index_{catePg}.html[https://www.hbotv1.com/{cateId}/index.html]","播放链接":"href=\'&&\'","播放链接前缀":"https://www.hbotv1.com","分类":"电视剧$tv#电影$movie#动漫$cartoon#综艺$variety"}},      
  
- {"key": "南瓜弹幕版","name":"🎖┃南瓜弹幕","type": 3,"api":"csp_Nangua","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+{"key":"南瓜影视","name":"🎖┃南瓜影视","type":3,"api":"http://150.158.91.136/lib/man.js","ext":"http://150.158.91.136/js/南瓜.js"},
  
  {"key": " 西瓜影音","name": "🎖┃西瓜影音","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "http://www.xigua60.com/xigua/{cateId}/index{catePg}{class}{catePg}{year}.html","分类": "电影$xg1#电视剧$xg3#动漫$xg31#综艺$xg13#短剧$xg45#"} },  
  
@@ -38,6 +38,10 @@
  
  {"key": "小鸭影音","name":"🎖┃小鸭影音","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介": "小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$30#综艺$29"}},
  
+ {"key":"csp_sxtv","name":"🎖┃神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"jar":"./jars/0407.jar","quickSearch":0,"changeable":1,"ext":"http://150.158.91.136/xbpq/神仙.json"},
+ 
+ {"key": "csp_茶杯","name":"🥇┃茶杯影视","type":3,"api":"csp_XBPQ","jar":"./jars/0407.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://150.158.91.136/xbpq/茶杯狐.json"},
+ 
  {"key":"片吧影院","name":"🥇┃片吧影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url":"https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "1&2&4&3"}},
  
  {"key":"csp_Auete","name":"🥇┃奥特影视","type": 3,"api":"csp_Auete","jar":"./jars/PandaQ240416.jar","searchable": 1,"quickSearch": 0,"filterable": 1},
@@ -45,6 +49,8 @@
  {"key":"IKUN资源","name":"🥇┃爱看影视","type": 1,"jar":"./jars/XBPQ.jar","api":"https://ikunzyapi.com/api.php/provide/vod ","playUrl": "https://bofang.ikdmjx.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","灾难片","犯罪片","悬疑片","惊悚片","奇幻片","冒险片","武侠片","其它片","国产剧","港台剧","日韩剧","欧美剧","香港剧","台湾剧","美国剧","韩国剧","日本剧","泰国剧","港澳剧","日剧","韩剧","泰剧","海外剧","马泰剧","中漫","日漫","动漫","纪录片","动画片","动漫片","国产动漫","港台动漫","日本动漫","海外动漫","日韩动漫","欧美动漫","动漫电影","国内综艺","港台综艺","大陆综艺","日韩综艺","欧美综艺","海外综艺","电影解说"]},
  
  {"key":"文采","name":"🥇┃文采秒播","type": 3,"api":"csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+ 
+ {"key": "csp_红狐狸","name":"🥇红狐影视","type":3,"api":"csp_XBPQ","jar":"./jars/0407.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://150.158.91.136/xbpq/红狐狸.json"},
  
  {"key": " 小跳影视","name": "💠┃小跳影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://pan.xtdy.cc/vodtype/{cateId}/page/{catePg}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#网络短剧$32#"}},
  
@@ -58,7 +64,7 @@
  
  {"key":"小林子影视","name":"💠┃林子影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍: +more-box\">&&</div>","线路数组": "#ewave-playlist&&</li>","播放数组": "ewave-playlist-sort-content\"&&</ul>","分类url": "https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
- {"key":"sp360","name":" ♦┃官源 | 360","type":3,"api":"csp_Sp360","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":1,"changeable":1,"timeout":25},
+ {"key": "drpy_js_360影视","name": "♦┃官源 | 360","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
 
  {"key":"drpy_js_奇珍异兽","name":" ♦┃官源 | 爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 
