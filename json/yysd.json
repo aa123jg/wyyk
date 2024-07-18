@@ -18,8 +18,8 @@
 ]},
 
 {"name":"电视直播软件","list":[
-{"name":"河南IPTV(移动宽带用户)","url":"https://cloud.lxweb.cn/f/qjRGue/%E6%B2%B3%E5%8D%97IPTV.v4.1.2z.apk","icon":"https://cloud.lxweb.cn/f/eByxHa/ic_logo.png","version":"河南（移动）IPTV.v4.1.2z版"},
-{"name":"河南IPTV(电信宽带用户)","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1IPTV.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1IPTV.png?inline=false","version":"河南（电信）IPTV-v3.HW.1.66版"},
+{"name":"河南IPTV(移动宽带用户)","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8IPTV_V4.1.2Z.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/_%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8.png?inline=false","version":"河南移动IPTV.v4.1.2z版"},
+{"name":"河南IPTV(电信宽带用户)","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1IPTV.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1IPTV.png?inline=false","version":"河南电信IPTV-v3.HW.1.66版"},
 {"name":"小微直播","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%B0%8F%E8%96%87%E7%9B%B4%E6%92%AD-v2.5.0.4-%E5%8E%BB%E5%B9%BF%E5%91%8A%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%96%87%E7%9B%B4%E6%92%AD.png?inline=false","version":"小微直播2.8.0.3.版"},
 {"name":"有线电视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86_1.0.9.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%9C%89%E7%BA%BF%E7%94%B5%E8%A7%86.png?inline=false","version":"1.0.9版"}
 ]},
@@ -27,7 +27,7 @@
 {"name":"音乐软件","list":[
 {"name":"酷狗概念版","url":"https://cloud.lxweb.cn/f/xgBjTM/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88_3.3.7.apk","icon":"https://cloud.lxweb.cn/f/MejyfG/app_logo.png","version":"3.3.7版"},
 {"name":"酷我音乐车机版","url":"https://cloud.lxweb.cn/f/yJb6IE/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E8%BD%A6%E6%9C%BA%E7%89%88_6.2.6.10%20Pro.apk","icon":"https://cloud.lxweb.cn/f/j1ogty/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.png","version":"6.2.6.10 Pro版"},
-{"name":"MusicFree","url":"https://cloud.lxweb.cn/f/bJkeSp/MusicFree-0.2.1.apk","icon":"https://cloud.lxweb.cn/f/lgznIw/MusicFree.png","version":"0.2.1版"},
+{"name":"MusicFree","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/ES.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/music_free.png?inline=false","version":"0.3.0版"},
 {"name":"落雪音乐","url":"https://cloud.lxweb.cn/f/J07EHk/lx-music-mobile-v1.2.0-beta.2-universal.zip","icon":"https://cloud.lxweb.cn/f/E0p2fX/%E8%90%BD%E9%9B%AA.png","version":"1.2版"},
 {"name":"KTV","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/KTV%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/KTV.png?inline=false","version":"电视版"},
 {"name":"歌词适配","url":"https://cloud.lxweb.cn/f/xgEqHM/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.apk","icon":"https://cloud.lxweb.cn/f/ymxAuE/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.png","version":"4.1.4版"}
@@ -42,17 +42,16 @@
 
 {"name":"工具软件","list":[
 {"name":"当贝桌面","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A24.1.6_%E5%AE%8C%E7%BE%8E%E5%87%80%E5%8C%96%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%93%E8%B4%9D%E6%A1%8C%E9%9D%A2.png?inline=false","version":"4.1.6版"},
-{"name":"安全桌面","url":"https://cloud.lxweb.cn/f/ewGZfa/%E5%AE%9D%E5%85%A8%E6%A1%8C%E9%9D%A2_51.apk","icon":"https://cloud.lxweb.cn/f/rzXpuE/%E5%AE%89%E5%85%A8%E6%A1%8C%E9%9D%A2.png","version":"51版"},
-{"name":"emotn UI桌面","url":"https://cloud.lxweb.cn/f/RrlgfO/Emotn%20UI_1.0.9.0.apk","icon":"https://cloud.lxweb.cn/f/VypdCr/emotn.png","version":"v1.0.9.0版"},
-{"name":"IDM+","url":"https://cloud.lxweb.cn/f/MoPbFG/1DM+_16.apk","icon":"https://cloud.lxweb.cn/f/6gNNfw/idm.png","version":"16.0版"},
-{"name":"ES管理器","url":"https://cloud.lxweb.cn/f/ngzOs6/ES%E6%96%87%E4%BB%B6%E6%B5%8F%E8%A7%88%E5%99%A8%204.4.2.10%E5%85%8D%E7%99%BB%E9%99%86%E8%A7%A3%E9%94%81%E4%BC%9A%E5%91%98%E7%89%88@bin1site.APK","icon":"https://cloud.lxweb.cn/f/lepyfw/ES.png","version":"4.4.2.10版"},
+{"name":"emotn UI桌面","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/Emotn_UI_1.0.9.0.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/Emotn_UI.png?inline=false","version":"v1.0.9.0版"},
+{"name":"IDM+","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/1DM_-v16_build_30234-Mod-arm64-v8a_Android_7.0__yxssp.com.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/1DM+.png?inline=false","version":"16.0版64位安卓7.0使用"},
+{"name":"IDM+","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/1DM_-v16_build_10234-Mod-arm64-v8a_Android_4.0__yxssp.com.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/1DM+.png?inline=false","version":"16.0版64位安卓4.0使用"},
+{"name":"ES管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/blob/main/apk/ES.apk","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/es.png?inline=false","version":"4.4.2.10版"},
 {"name":"MT管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/bin.mt.plus.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/mt.png?inline=false","version":"2.16.1版"},
-{"name":"NP管理器","url":"https://cloud.lxweb.cn/f/modAFj/player.normal.np.NPApp.apk","icon":"https://cloud.lxweb.cn/f/7XqWtr/np.png","version":"3.1.3版"},
+{"name":"NP管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/NP%E7%AE%A1%E7%90%86%E5%99%A8_3.1.9.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/np.png?inline=false","version":"3.1.9版"},
 {"name":"小白管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0_TV%E7%89%88_.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6.png?inline=false","version":"2.8.0版"},
-{"name":"超卓管理器","url":"https://cloud.lxweb.cn/f/weJXI2/%E8%B6%85%E5%8D%93%E6%96%87%E7%AE%A1_15.4.4.apk","icon":"https://cloud.lxweb.cn/f/7aYpfr/cz.png","version":"15.4.4版"},
-{"name":"百科浏览器","url":"https://cloud.lxweb.cn/f/ME7JsG/%E7%99%BE%E7%A7%91%E6%B5%8F%E8%A7%88%E5%99%A8-3.5.apk","icon":"https://cloud.lxweb.cn/f/6pBduw/baike.png","version":"3.5版"},
-{"name":"DIYP播放器","url":"https://cloud.lxweb.cn/f/BdzxI9/DIYP_5.2.0.apk","icon":"https://cloud.lxweb.cn/f/WPePfB/diyp.png","version":"5.2.0版"},{"name":"直播仓V3","url":"https://cloud.lxweb.cn/f/71AxHr/%E7%9B%B4%E6%92%AD%E4%BB%93v3_3.0.37.apk","icon":"https://cloud.lxweb.cn/f/0Pr7I0/%E7%9B%B4%E6%92%AD%E4%BB%93.png","version":"3.0.37版"},
-{"name":"超级市场","url":"https://cloud.lxweb.cn/f/N6PmSR/%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA1.0.apk","icon":"https://cloud.lxweb.cn/f/nw2dU6/%E8%B6%85%E7%BA%A7%E5%B8%82%E5%9C%BA.png","version":"超级市场1.0版"},
+{"name":"超卓管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E8%B6%85%E5%8D%93%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E8%B6%85%E5%8D%93%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8.png?inline=false","version":"15.4.4版"},
+{"name":"DIYP播放器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/DIYP%E5%BD%B1%E9%9F%B3Final%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2024-07-18_220003.png?inline=false","version":"DIYP影音Final版"},
+{"name":"直播仓V3","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/zbcv3_129936.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E7%9B%B4%E6%92%AD%E4%BB%93V3.png?inline=false","version":"3.0.37版"},
 {"name":"MX播放器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/MX_%E6%92%AD%E6%94%BE%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88_1.64.4.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/MX.png?inline=false","version":"1.64.4版"}
 ]},
 

@@ -36,8 +36,8 @@
  
  {"key":"csp_蚂蚁","name": "🎖┃蚂蚁无广","type": 1,"api":"http://dsakf23665.com/api.php/provide/vod/from/NBY","playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=","filterable": 1},
  
- {"key": "小鸭影音","name":"🎖┃小鸭影音","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介": "小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$30#综艺$29"}},
- 
+ {"key": "小鸭影音","name":"🎖┃小鸭影音","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介": "小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/type/id/{cateId}/page/{catePg}.html","分类": "电影$1#电视剧$2#动漫$30#综艺$29"}},
+
  {"key":"csp_sxtv","name":"🎖┃神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"jar":"./jars/0407.jar","quickSearch":0,"changeable":1,"ext":"http://150.158.91.136/xbpq/神仙.json"},
  
  {"key": "csp_茶杯","name":"🥇┃茶杯影视","type":3,"api":"csp_XBPQ","jar":"./jars/0407.jar","searchable":1,"quickSearch":1,"filterable":1,"playerType":1,"ext":"http://150.158.91.136/xbpq/茶杯狐.json"},
@@ -194,7 +194,6 @@
  ],
 
  "parses":[
-  {"name":"Web聚合","type":3,"url":"Web"},
  {"name":"-精选1-","type":0,"url":"https://player.bingdou.vip/?pass=14&url="},
  {"name":"-精选2-","type":0,"url":"https://bd.jx.cn/?url="},
  {"name":"-精选3-","type":0,"url":"https://jx.xmflv.com/?wap=1&url="},
