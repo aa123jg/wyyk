@@ -27,7 +27,7 @@
 {"name":"音乐软件","list":[
 {"name":"酷狗概念版","url":"https://cloud.lxweb.cn/f/xgBjTM/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88_3.3.7.apk","icon":"https://cloud.lxweb.cn/f/MejyfG/app_logo.png","version":"3.3.7版"},
 {"name":"酷我音乐车机版","url":"https://cloud.lxweb.cn/f/yJb6IE/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E8%BD%A6%E6%9C%BA%E7%89%88_6.2.6.10%20Pro.apk","icon":"https://cloud.lxweb.cn/f/j1ogty/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.png","version":"6.2.6.10 Pro版"},
-{"name":"MusicFree","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/ES.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/ES.png?inline=false","version":"0.3.0版"},
+{"name":"MusicFree","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/ES.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/music_free.png?inline=false","version":"0.3.0版"},
 {"name":"落雪音乐","url":"https://cloud.lxweb.cn/f/J07EHk/lx-music-mobile-v1.2.0-beta.2-universal.zip","icon":"https://cloud.lxweb.cn/f/E0p2fX/%E8%90%BD%E9%9B%AA.png","version":"1.2版"},
 {"name":"KTV","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/KTV%E7%BB%88%E8%BA%AB%E5%85%8D%E8%B4%B9%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/KTV.png?inline=false","version":"电视版"},
 {"name":"歌词适配","url":"https://cloud.lxweb.cn/f/xgEqHM/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.apk","icon":"https://cloud.lxweb.cn/f/ymxAuE/%E6%AD%8C%E8%AF%8D%E9%80%82%E9%85%8D.png","version":"4.1.4版"}
@@ -56,18 +56,14 @@
 ]},
 
 {"name":"内置接口软件","list":[
-{"name":"Mtv电视","url":"https://cloud.lxweb.cn/f/VALVFr/Mtv.apk","icon":"https://cloud.lxweb.cn/f/9doni1/Mtv.png","version":"网游鹰内置tv版"},
-{"name":"网游鹰TV","url":"https://cloud.lxweb.cn/f/kpqVcp/%E7%BD%91%E6%B8%B8%E9%B9%B0TV.apk","icon":"https://cloud.lxweb.cn/f/JX1dsk/%E7%BD%91%E6%B8%B8%E9%B9%B0TV.png","version":"影视内置版"},
-{"name":"老兵影院","url":"https://cloudlxwebcnfbBJOsp%E8%80%81%E5%85%B5%E5%BD%B1%E9%99%A27.2%E2%98%85%E8%87%AA%E5%8A%A8%E7%99%BB%E5%BD%95%E6%B0%B8%E4%B9%85%E4%BC%9A%E5%91%98.apK","icon":"https://cloud.lxweb.cn/f/qBO7ce/%E8%80%81%E5%85%B5.png","version":"老兵影院7.2自动登录永久版"},
-{"name":"宝全影院","url":"https://cloud.lxweb.cn/f/8Ybyf1/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2%E5%86%85%E7%BD%AE2.3.2_anti.apk","icon":"https://cloud.lxweb.cn/f/ojmyuY/%E5%AE%9D%E5%85%A8%E5%BD%B1%E9%99%A2.png","version":"宝全影院内置2.3.2版"},
-{"name":"春盈天下","url":"https://cloud.lxweb.cn/f/XkkETK/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B_%E6%98%A5%E7%9B%882.0_1.apk","icon":"https://cloud.lxweb.cn/f/1zzjce/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B2.0.1.png","version":"春盈天下内置2.0.1版"},
-{"name":"大师兄app","url":"https://cloud.lxweb.cn/f/M0zNUG/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86V3.3.3%E5%AE%89%E5%8D%93%E7%BA%AF%E5%87%80%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/6L0xcw/%E5%A4%A7%E5%B8%88%E5%85%84.png","version":"大师兄V3.3.3手机版"},
-{"name":"龍門影视珍藏版","url":"https://cloud.lxweb.cn/f/PkkDib/%E9%BE%8D%E9%96%80%E5%BD%B1%E8%A7%86%E7%8F%8D%E8%97%8F%E7%89%88.apk","icon":"https://cloud.lxweb.cn/f/L222UD/%E9%BE%99%E9%97%A8.png","version":"龍門影视珍藏版"},
-{"name":"如意视界","url":"https://cloud.lxweb.cn/f/pGR0se/%E5%A6%82%E6%84%8F%E8%A7%86%E7%95%8C9.6.0%E5%86%85%E7%BD%AE%E5%BD%B1%E8%A7%86%E8%BD%AF%E4%BB%B6.apk","icon":"https://cloud.lxweb.cn/f/KE8OTX/%E5%A6%82%E6%84%8F%E7%94%B5%E8%A7%86.png","version":"如意视界内置9.6.0手机版"},
-{"name":"闪电影视盒","url":"https://cloud.lxweb.cn/f/AEwMFa/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.apk","icon":"https://cloud.lxweb.cn/f/Byxyi9/%E9%97%AA%E7%94%B5%E5%BD%B1%E8%A7%86%E7%9B%92.png","version":"闪电影视盒内置版"},
-{"name":"ok影视","url":"https://cloud.lxweb.cn/f/ab7ef6/ok%E5%BD%B1%E8%A7%86.apk","icon":"https://cloud.lxweb.cn/f/ngGNf6/OK.png","version":"ok影视内置版"},
-{"name":"尔特视频","url":"https://cloud.lxweb.cn/f/gA0psK/%E5%B0%94%E7%89%B9%E8%A7%86%E9%A2%91_1.0.apk","icon":"https://cloud.lxweb.cn/f/RGXMSO/%E5%B0%94%E7%89%B9%E8%A7%86%E9%A2%91.png","version":"尔特视频1.0内置版"},
-{"name":"牛马影视","url":"https://cloud.lxweb.cn/f/Nw0gIR/%E7%89%9B%E9%A9%AC%E5%BD%B1%E4%BB%93%205.0.28%201.apk","icon":"https://cloud.lxweb.cn/f/m2qeTj/%E7%89%9B%E9%A9%AC.png","version":"牛马影视内置版"}
+{"name":"月光宝盒","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Box0710.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92.png?inline=false","version":"月光宝盒内置版"},
+{"name":"小苹果影视","url":"小苹果","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%8B%B9%E6%9E%9C.png?inline=false","version":"小苹果影视内置版"},
+{"name":"天微影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%A4%A9%E5%BE%AE_%E5%BD%B1%E8%A7%86_2.4.3%E7%94%B5%E8%A7%86%E9%80%9A%E7%94%A8.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%A4%A9%E5%BE%AE.png?inline=false","version":"天微影视内置版"},
+{"name":"西夏影视内置版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E8%A5%BF%E5%A4%8F%E5%BD%B1%E8%A7%86TV_2.4.3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E8%A5%BF%E5%A4%8F.png?inline=false","version":"西夏影视内置版"},
+{"name":"春盈天下","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B_4.0.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.jpg?inline=false","version":"春盈天下内置版"},
+{"name":"恒星影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%81%92%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%935.0.34-3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%81%92%E6%98%9F.png?inline=false","version":"恒星影视内置版"},
+{"name":"拾光影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%8B%BE%E5%85%89%E5%BD%B1%E4%BB%93_5.0.34.3.APK?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.jpg?inline=false","version":"拾光影视内置版"},
+
 ]},
 
 {"name":"安卓4系列专区","list":[

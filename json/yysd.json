@@ -60,7 +60,10 @@
 {"name":"小苹果影视","url":"小苹果","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E8%8B%B9%E6%9E%9C.png?inline=false","version":"小苹果影视内置版"},
 {"name":"天微影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%A4%A9%E5%BE%AE_%E5%BD%B1%E8%A7%86_2.4.3%E7%94%B5%E8%A7%86%E9%80%9A%E7%94%A8.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%A4%A9%E5%BE%AE.png?inline=false","version":"天微影视内置版"},
 {"name":"西夏影视内置版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E8%A5%BF%E5%A4%8F%E5%BD%B1%E8%A7%86TV_2.4.3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E8%A5%BF%E5%A4%8F.png?inline=false","version":"西夏影视内置版"},
-{"name":"春盈天下","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B_4.0.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.jpg?inline=false","version":"春盈天下内置版"}
+{"name":"春盈天下","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B_4.0.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.jpg?inline=false","version":"春盈天下内置版"},
+{"name":"恒星影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%81%92%E6%98%9F%E5%BD%B1%E8%A7%86%E4%BB%935.0.34-3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%81%92%E6%98%9F.png?inline=false","version":"恒星影视内置版"},
+{"name":"拾光影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%8B%BE%E5%85%89%E5%BD%B1%E4%BB%93_5.0.34.3.APK?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%8B%BE%E5%85%89.png?inline=false","version":"拾光影视内置版"}
+
 ]},
 
 {"name":"安卓4系列专区","list":[

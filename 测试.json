@@ -8,7 +8,7 @@
                "logo":"https://epg.112114.xyz/logo/{name}.png"
                }],
 "sites":[
-    
+    {"key":"Youtube","name":"Youtube","type":3,"jar":"https://raw.githubusercontent.com/dlee2008/qist/master/jar/pg.jar;md5;c687efe41ea48c68e9ddd63d0796d242","api": "csp_Youtube","searchable": 1,"quickSearch": 0,"changeable": 0,"ext":{"token":"./lib/token.json","json":"https://raw.githubusercontent.com/dlee2008/qist/master/json/youtube.json","type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary","proxy":"socks5://127.0.0.1:10172","keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐","codecs":"","danmu":true},"style": {"type": "rect","ratio": 1.77}},
     {"key": " 小跳影视","name": "🎖┃小跳影视","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://pan.xtdy.cc/vodtype/{cateId}/page/{catePg}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#网络短剧$32#"}},
     
     {"key":"csp_XBPQ_18j","name":"👒18j影视┃XBPQ","type":3,"api":"csp_XBPQ",    "jar": "./jars/XBPQ.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{ "线路数组": "<div class=\"player_title_ad&&</div", "主页url":"http://xxbb2.com/",
