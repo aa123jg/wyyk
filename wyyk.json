@@ -24,7 +24,7 @@
  
  {"key": " 奈菲影视","name": "🎖┃奈菲影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.naifei.io/vodtype/{cateId}.html","分类":"电影$dy#连续剧$juji#动漫$dongman#综艺$zongyi"}},    
  
- {"key":"csp_V1080影院","name":"🎖┃1080影院","type":3,"api":"csp_XBPQ",  "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://v1080.cc/","分类url":"https://v1080.cc/index.php/vod/type/id/{cateId}{class}{area}{year}{by}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#魔盒$31"}},
+ {"key":"影视工厂","name":"🎖┃影视工厂","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>","线路标题": "网游鹰接口💠+>&&<","分类url":"https://www.ysgctv.com/vodtype/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#"}},
  
  {"key":"csp_五五","name":"🎖┃五五影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/55影视.json"}, 
  
@@ -43,6 +43,12 @@
  {"key":"片吧影院","name":"🥇┃片吧影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url":"https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "1&2&4&3"}},
  
  {"key": "文采","name": "🥇┃文采影视","type": 3,"api": "csp_Jpys","playerType": 2,"jar":"./jars/spider1.jar","searchable": 1,"quickSearch": 1,"changeable": 1},
+ 
+ {"key": "csp_星辰","name": "🥇┃星辰秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":0,"filterable": 1,"ext": "./json/xcys.json" }, 
+ 
+ { "key": "桃子影院", "name": "🥇┃桃子影院", "type":3,"api":"csp_XBPQ", "searchable":1,"quickSearch":0,"filterable":1,
+ "ext": {"分类url":"https://www.taozi360.com/360/{cateId}{class}{area}{year}{by}.html",
+ "分类":"电影$1#连续剧$2#动漫$3#综艺$4#短剧$6#海外剧$23"}},
  
  {"key": "csp_红狐狸","name":"💠┃红狐影视","type":3,"api":"csp_XBPQ","jar":"./jars/0407.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://150.158.91.136/xbpq/红狐狸.json"},
  
