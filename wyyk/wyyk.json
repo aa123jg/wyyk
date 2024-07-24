@@ -1,7 +1,7 @@
 
 
  {"wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
- "spider":"./jars/spider.jar",
+ "spider":"./jars/spider(1).jar",
  "lives":[{"name":"live直播",
                "type":0,"url":"./tv/live直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
@@ -36,7 +36,7 @@
  
  {"key":"csp_蚂蚁","name": "🎖┃蚂蚁无广","type": 1,"api":"http://dsakf23665.com/api.php/provide/vod/from/NBY","playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=","filterable": 1},
  
- {"key": "小鸭影音","name":"🎖┃小鸭影音","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介": "小林子为您剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$30#综艺$29"}},
+ {"key": "小鸭影音","name":"🎖┃小鸭影音","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介": "剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>","分类url": "https://777tv.ai/vod/show/area/{area}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$30#综艺$29"}},
  
  {"key":"csp_sxtv","name":"🎖┃神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"jar":"./jars/0407.jar","quickSearch":0,"changeable":1,"ext":"http://150.158.91.136/xbpq/神仙.json"},
  
@@ -62,7 +62,7 @@
  
  {"key":"csp_xBPQ_玖八","name":"💠┃98 影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"./json/98影视.json"},
  
- {"key":"小林子影视","name":"💠┃林子影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍: +more-box\">&&</div>","线路数组": "#ewave-playlist&&</li>","播放数组": "ewave-playlist-sort-content\"&&</ul>","分类url": "https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+ {"key":"小林子影视","name":"💠┃林子影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"简介":"【🦅】⚠️特别提醒您请勿相信影片中的广告，以免上当受骗❗️剧情介绍: +more-box\">&&</div>","线路数组": "#ewave-playlist&&</li>","播放数组": "ewave-playlist-sort-content\"&&</ul>","分类url": "https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
  {"key": "drpy_js_360影视","name": "♦┃官源 | 360","type": 3,"api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"},
 

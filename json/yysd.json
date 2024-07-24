@@ -5,9 +5,12 @@
 },
 
 {"name":"最新apk软件","list":[
-{"name":"影视仓","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86%E4%BB%93.png?inline=false","version":"5.0.34版"},
+{"name":"影视仓","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3_wmdz.com_.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86%E4%BB%93.png?inline=false","version":"5.0.34.3版"},
+{"name":"影视仓0","url":"https://www.yiyuen.com/e/file/download?code=6e0c0fc5c753cda8&id=661919","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86%E4%BB%93.png?inline=false","version":"5.0.33版"},
+
+
 {"name":"可视TV版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%8F%AF%E8%A7%86TV_Max_1.9.5.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%8F%AF%E8%A7%86TV.png?inline=false","version":"可视TV-1.9.5版"},
-{"name":"影视仓TV海信版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34_%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86%E4%BB%93.png?inline=false","version":"5.0.34海信专用版"},
+{"name":"影视仓TV海信版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%BD%B1%E8%A7%86%E4%BB%93_5.0.34.3_%E6%B5%B7%E4%BF%A1%E7%89%88_wmdz.com_.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86%E4%BB%93.png?inline=false","version":"5.0.34.3海信专用版"},
 {"name":"海信专版_OK影视2.4.3版","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E6%B5%B7%E4%BF%A1%E4%B8%93%E7%89%88-OK%E5%BD%B1%E8%A7%86-2.4.3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86.png?inline=false","version":"海信专版_OK影视2.4.3.版"},
 {"name":"OK影视海信版","url":"https://cloud.lxweb.cn/f/P6rEfb/%E5%BD%B1%E8%A7%86%E7%94%B5%E8%A7%86%E7%89%88_0214%EF%BC%88%E6%B5%B7%E4%BF%A1%E7%94%B5%E8%A7%86%E4%B8%93%E7%94%A8%E7%89%88%EF%BC%89.apk","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86.png?inline=false","version":"OK影视海信版"},
 {"name":"OK影视","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/OK%E5%BD%B1%E8%A7%86-%E7%94%B5%E8%A7%86%E7%89%88-2.4.3.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%BD%B1%E8%A7%86.png?inline=false","version":"OK影视2.4.3版"},
@@ -25,7 +28,7 @@
 ]},
 
 {"name":"音乐软件","list":[
-{"name":"酷狗概念版","url":"https://cloud.lxweb.cn/f/xgBjTM/%E9%85%B7%E7%8B%97%E6%A6%82%E5%BF%B5%E7%89%88_3.3.7.apk","icon":"https://cloud.lxweb.cn/f/MejyfG/app_logo.png","version":"3.3.7版"},
+{"name":"酷狗概念版","url":"http://114.132.198.144/down.php/782d327088fca4e58310f35a56f41319.apk","icon":"https://cloud.lxweb.cn/f/MejyfG/app_logo.png","version":"3.3.7版"},
 {"name":"酷我音乐车机版","url":"https://cloud.lxweb.cn/f/yJb6IE/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90%E8%BD%A6%E6%9C%BA%E7%89%88_6.2.6.10%20Pro.apk","icon":"https://cloud.lxweb.cn/f/j1ogty/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.png","version":"6.2.6.10 Pro版"},
 {"name":"MusicFree","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/ES.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/music_free.png?inline=false","version":"0.3.0版"},
 {"name":"落雪音乐","url":"https://cloud.lxweb.cn/f/J07EHk/lx-music-mobile-v1.2.0-beta.2-universal.zip","icon":"https://cloud.lxweb.cn/f/E0p2fX/%E8%90%BD%E9%9B%AA.png","version":"1.2版"},
@@ -51,6 +54,7 @@
 {"name":"小白管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8_2.8.0_TV%E7%89%88_.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B0%8F%E7%99%BD%E6%96%87%E4%BB%B6.png?inline=false","version":"2.8.0版"},
 {"name":"超卓管理器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/%E8%B6%85%E5%8D%93%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E8%B6%85%E5%8D%93%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E5%99%A8.png?inline=false","version":"15.4.4版"},
 {"name":"DIYP播放器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/DIYP%E5%BD%B1%E9%9F%B3Final%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE_2024-07-18_220003.png?inline=false","version":"DIYP影音Final版"},
+{"name":"DIYP播放器","url":"git clone https://gitclone.com/https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/DIYP%E5%BD%B1%E9%9F%B3Final%E7%89%88.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/drpy5.2.0.png?inline=false","version":"DIYP影音5.2.0版"},
 {"name":"直播仓V3","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/zbcv3_129936.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E7%9B%B4%E6%92%AD%E4%BB%93V3.png?inline=false","version":"3.0.37版"},
 {"name":"MX播放器","url":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/apk/MX_%E6%92%AD%E6%94%BE%E5%99%A8%E4%B8%93%E4%B8%9A%E7%89%88_1.64.4.apk?inline=false","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/MX.png?inline=false","version":"1.64.4版"}
 ]},
