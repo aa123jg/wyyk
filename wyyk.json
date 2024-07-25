@@ -34,7 +34,7 @@
  
  {"key": "萌米","name":"🎖┃萌米影视","type": 3,"api":"csp_AppTT","jar":"./jars/cc.jar","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
  
- {"key": "可可","name": "🎖┃可可影视","type": 3,"playerType": "2","api": "csp_Keke","searchable": 1,"quickSearch": 1,"filterable": 1},  
+ {"key": "可可","name": "🎖┃可可影视","type": 3,"playerType": "2","api": "csp_Keke","jar":"./jars/spider(2).jar","searchable": 1,"quickSearch": 1,"filterable": 1},  
  
  {"key": "csp_七新","name": "🥇┃七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/七新影视.json"},
  
