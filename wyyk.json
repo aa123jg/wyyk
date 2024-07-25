@@ -36,7 +36,7 @@
  
  { "key": "可可", "name": "🎖┃可可影视", "type": 3, "api": "csp_Kekys", "timeout": 15, "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 }, 
  
- {"key": "csp_七新","name": "🥇┃七新影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/七新影视.json"},
+ { "key": "VS影院", "name": "🎖┃VS影院", "type":3,"api":"csp_XBPQ", "ext": {"线路数组":"#playlist&&</a>","分类url":"https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}},
  
  {"key":"csp_蚂蚁","name": "🥇┃蚂蚁无广","type": 1,"api":"http://dsakf23665.com/api.php/provide/vod/from/NBY","playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=","filterable": 1},
  
