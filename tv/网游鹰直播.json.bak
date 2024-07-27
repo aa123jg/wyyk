@@ -1,8 +1,9 @@
 [
 
-{"name":"移动•IPTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/wyyk/tv/%E7%A7%BB%E5%8A%A8IPTV.txt&&&https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/_%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8.png?inline=false"},
-{"name":"电信•IPTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/wyyk/tv/%E7%94%B5%E4%BF%A1IPTV.txt&&&https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1IPTV.png?inline=false"},
-{"name":"春盈天下•源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/wyyk/tv/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.txt&&&https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E5%A4%A9.jpg?inline=false"},
-{"name":"范明明•电台","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u&&&https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E7%94%B5%E5%8F%B0.jpg?inline=false"}
+{"name":"移动•IPTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/tv/%E7%A7%BB%E5%8A%A8IPTV.txt&&&https://mirror.ghproxy.com/https://github.com/aa123jg/wyyk/blob/main/tv/_%E6%B2%B3%E5%8D%97%E7%A7%BB%E5%8A%A8.png"},
+{"name":"电信•IPTV","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/tv/%E7%94%B5%E4%BF%A1IPTV.txt&&&https://mirror.ghproxy.com/https://github.com/aa123jg/wyyk/blob/main/tv/%E6%B2%B3%E5%8D%97%E7%94%B5%E4%BF%A1.png?raw=true"},
+{"name":"春盈天下•源","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/tv/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.txt&&&https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/%E6%98%A5%E7%9B%88%E5%A4%A9%E4%B8%8B.jpg?inline=false"},
+{"name":"广播•电台","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/aa123jg/wyyk/main/tv/%E5%B9%BF%E6%92%AD%E7%94%B5%E5%8F%B0.m3u8&&&https://mirror.ghproxy.com/https://github.com/aa123jg/wyyk/blob/main/tv/%E7%94%B5%E5%8F%B01.jpg?raw=true"},
+{"name":"范明明•电台","url":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u&&&https://mirror.ghproxy.com/https://github.com/aa123jg/wyyk/blob/main/tv/%E7%94%B5%E5%8F%B01.jpg?raw=true"}
 
 ]
