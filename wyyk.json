@@ -14,42 +14,42 @@
 
  {"key":"应用商店","name":"🏫┃应用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
 
- {"key":"直播转点播","name":"📡┃电视直播台","type":3,"searchable":0,"api":"./tv/网游鹰直播vod.js","ext":"./tv/网游鹰直播.json"},
+ {"key":"直播转点播","name":"📡┃电视直播台","type":3,"searchable":0,"jar":"./jars/zhuzi0615.jar","api":"./tv/网游鹰直播vod.js","ext":"./tv/网游鹰直播.json"},
  
  {"key":"南瓜影视","name":"🎖┃南瓜影视","type":3,"api":"http://150.158.91.136/lib/man.js","ext":"http://150.158.91.136/js/南瓜.js"},
  
- {"key": " 奈菲影视","name": "🎖┃奈菲影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url": "https://www.naifei.io/vodtype/{cateId}.html","分类":"电影$dy#连续剧$juji#动漫$dongman#综艺$zongyi"}},    
+ {"key": " 奈菲影视","name": "🎖┃奈菲影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "https://www.naifei.io/vodtype/{cateId}.html","分类":"电影$dy#连续剧$juji#动漫$dongman#综艺$zongyi"}},    
  
  {"key": "nangua","name": "🎖┃农民影视","type": 3,"api": "csp_WebNM","jar":"./jars/spidernm.jar","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://m.wwgz.cn"},  
  
- {"key":"影视工厂","name":"🎖┃影视工厂","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>","线路标题": "网游鹰接口💠+>&&<","分类url":"https://www.ysgctv.com/vodtype/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#"}},
+ {"key":"影视工厂","name":"🎖┃影视工厂","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"线路数组":"<h3 class=\"title\">&&/h3>","线路标题": "网游鹰接口💠+>&&<","分类url":"https://www.ysgctv.com/vodtype/{cateId}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#"}},
  
- {"key":"csp_五五","name":"🎖┃五五影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/55影视.json"}, 
+ {"key":"csp_五五","name":"🎖┃五五影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/55影视.json"}, 
  
- {"key": "影视","name": "🎖┃看影影视","type": 3,"api": "csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"分类url": "https://www.kanying.org/so/{cateId}/{area}-------{catePg}---{year}/",  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime"}}, 
+ {"key": "影视","name": "🎖┃看影影视","type": 3,"api": "csp_XBPQ","ext": {"分类url": "https://www.kanying.org/so/{cateId}/{area}-------{catePg}---{year}/",  "分类": "电影$movie#电视剧$tv#综艺$variety#动漫$anime"}}, 
  
  {"key": "萌米","name":"🎖┃萌米影视","type": 3,"api":"csp_AppTT","jar":"./jars/cc.jar","timeout": 15,"playerType": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
  
- { "key": "可可", "name": "🎖┃可可影视", "type": 3, "api": "csp_Kekys", "timeout": 15, "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 }, 
+ { "key": "可可", "name": "🎖┃可可影视", "type": 3, "api": "csp_Kekys", "timeout": 15, "playerType": 2, "searchable": 1, "quickSearch": 0, "changeable": 1 }, 
  
  { "key": "VS影院", "name": "🎖┃VS影院", "type":3,"api":"csp_XBPQ", "ext": {"线路数组":"#playlist&&</a>","分类url":"https://www.nxgqmy.com/ybsitp/{cateId}-{catePg}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"}},
  
- {"key":"策驰影院","name":"🎖┃策驰影院","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/cechi.json"},
+ {"key": "csp_348影视","name": "🎖┃348影视","type": 3,"api": "csp_XBPQ","jar":"./jars/XBPQ.jar", "searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "./json/348.json"},  
 
- {"key":"子子影视","name":"🥇┃子子影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
+ {"key":"子子影视","name":"🥇┃子子影视","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/子子.json"},
 
  {"key": "白嫖者","name": "🥇┃白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"剧情介绍：&&</p >"}},
- {"key": "畅梦","name": "🥇┃畅梦影视","type": 3,"ua": "okhttp/3.15","api": "./js/drpy2.min.js","ext": "./js/畅梦.js"},
+ {"key":"csp_XBPQ_没事影视","name":"🥇┃没事影视","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"主页url":"https://www.yu992.com/","分类url":"https://www.yu992.com/lys/{cateId}.html","分类":"电影$dianying#剧集$juji#综艺$zongyi#动漫$dongman#短剧$duanju"}, "倒序":"1"},
  
  {"key":"csp_蚂蚁","name": "🥇┃蚂蚁无广","type": 1,"api":"http://dsakf23665.com/api.php/provide/vod/from/NBY","playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url=","filterable": 1},
  
- {"key": " 米兰影视","name": "🥇┃米兰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"主页url": "https://ml-tv.cc/","分类url": "https://ml-tv.cc/index.php/vod/type/id/{cateId}/index{catePg}{class}.html","分类": "电影$20#电视剧$21#综艺$22#动漫$23#"}},
+ {"key": " 米兰影视","name": "🥇┃米兰影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"主页url": "https://ml-tv.cc/","分类url": "https://ml-tv.cc/index.php/vod/type/id/{cateId}/index{catePg}{class}.html","分类": "电影$20#电视剧$21#综艺$22#动漫$23#"}},
  
  {"key":"csp_sxtv","name":"🥇┃神仙影视","type":3,"api":"csp_XBPQ","searchable":1,"jar":"./jars/0407.jar","quickSearch":0,"changeable":1,"ext":"http://150.158.91.136/xbpq/神仙.json"},
  
  {"key":"片吧影院","name":"🥇┃片吧影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url":"https://www.pbgoo.com/class/{cateId}--{area}--{lang}----{catePg}---{year}.html","分类":"电影&电视剧&综艺&动漫","分类值": "1&2&4&3"}},
  
- {"key": "文采","name": "🥇┃文采影视","type": 3,"api": "csp_Jpys","playerType": 2,"jar":"./jars/spider.jar","searchable": 1,"quickSearch": 1,"changeable": 1},
+ {"key": "文采","name": "🥇┃文采影视","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
  
  {"key": "csp_星辰","name": "🥇┃星辰秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch":0,"filterable": 1,"ext": "./json/xcys.json" }, 
  
@@ -65,11 +65,11 @@
  
  {"key":"热播之家","name":"💠┃ 热播之家","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url":"https://rebozj.pro/type/{cateId}/index{catePg}{class}{catePg}{year}.html","分类":"电影$1#电视剧$2#纪录片$3#动漫$4#综艺$5#"}},
  
- { "key": "hbo影视", "name": "💠┃HBO影视", "type":3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar", "ext": {"分类url":"https://www.hbotv1.com/{cateId}/index_{catePg}.html[https://www.hbotv1.com/{cateId}/index.html]","播放链接":"href=\'&&\'","播放链接前缀":"https://www.hbotv1.com","分类":"电视剧$tv#电影$movie#动漫$cartoon#综艺$variety"}},  
+ { "key": "hbo影视", "name": "💠┃HBO影视", "type":3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"分类url":"https://www.hbotv1.com/{cateId}/index_{catePg}.html[https://www.hbotv1.com/{cateId}/index.html]","播放链接":"href=\'&&\'","播放链接前缀":"https://www.hbotv1.com","分类":"电视剧$tv#电影$movie#动漫$cartoon#综艺$variety"}},  
  
- {"key":"小林子影视","name":"💠┃林子影视","type": 3,"api":"csp_XBPQ","jar":"./jars/XBPQ.jar","ext": {"线路数组": "#ewave-playlist&&</li>","播放数组": "ewave-playlist-sort-content\"&&</ul>","分类url": "https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+ {"key":"小林子影视","name":"💠┃林子影视","type": 3,"api":"csp_XBPQ","ext": {"线路数组": "#ewave-playlist&&</li>","播放数组": "ewave-playlist-sort-content\"&&</ul>","分类url": "https://tv.loufubao.com/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 
- {"key": "360_spider","name": "♦┃官源 |360影视","type": 3,"api": "csp_SP360","filterable": 1,"quickSearch": 1,"searchable": 1 },
+ {"key": "360_spider","name": "♦┃官源 |360影视","type": 3,"api": "csp_SP360","filterable": 1,"quickSearch": 0,"searchable": 1 },
 
  {"key":"drpy_js_奇珍异兽","name":" ♦┃官源 | 爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"},
 
@@ -112,7 +112,7 @@
 
  {"key":"csp_Kanqiu","name":"⚽┃88看球","type":3,"api":"csp_Kanqiu","jar":"./jars/88.jar","searchable":1,"quickSearch":0,"filterable":1,"changeable":0},
 
-  {"key": "js_310直播","name": "⚽体育┃310直播","type": 3,"api": "./js/drpy2.min.js", "searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 0,"ext": "./js/310直播.js"},
+  {"key": "js_310直播","name": "⚽体育┃310直播","type": 3,"api": "./js/drpy2.min.js", "searchable": 1,"quickSearch": 0,"ua": "okhttp/3.15","filterable": 0,"ext": "./js/310直播.js"},
 
  {"key":"评书","name":"🏮┃评   书","type":3,"searchable":0,"style":{"type":"rect","ratio":1.597},"quickSearch":0,"api":"csp_XBPQ","jar":"./jars/c.txt","ext":"./json/评书.json"},
 
