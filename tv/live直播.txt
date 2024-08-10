@@ -1119,7 +1119,7 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 黑龙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8$可回放
 
 
-🌴 通用港澳台频道,#genre#
+🌴 港澳台频道,#genre#
 
 凤凰香港,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226308/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639
@@ -1149,8 +1149,23 @@ CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$
 TVB娱乐新闻台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
 TVB亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 TVB星河,http://v2h.jds
-
-🍔  通用美食频道,#genre#
+TVBS HD,http://80story.us.to:8073/live.m3u8?c=1
+TVBS NEWS,http://80story.us.to:8073/live.m3u8?c=2
+TVBS新闻台HD,http://80story.us.to:8073/live.m3u8?c=3
+中天新闻,http://80story.us.to:8073/live.m3u8?c=4
+中天新闻2,http://80story.us.to:8073/live.m3u8?c=5
+中天亚洲台,http://80story.us.to:8073/live.m3u8?c=6
+中视新闻,http://80story.us.to:8073/live.m3u8?c=7
+东森新闻,http://80story.us.to:8073/live.m3u8?c=8
+东森财经新闻HD,http://80story.us.to:8073/live.m3u8?c=9
+寰宇新闻台,http://80story.us.to:8073/live.m3u8?c=10
+台视新闻HD,http://80story.us.to:8073/live.m3u8?c=11
+民视新闻台HD,http://80story.us.to:8073/live.m3u8?c=12
+镜新闻mnews,http://80story.us.to:8073/live.m3u8?c=13
+LIVE三立,http://80story.us.to:8073/live.m3u8?c=14
+三立iNEWS,http://80story.us.to:8073/live.m3u8?c=15
+大爱一台,http://80story.us.to:8073/live.m3u8?c=16
+🍔  美食频道,#genre#
 
 鲍汁豆腐,https://vd4.bdstatic.com/mda-nec91x1nvgejnd5u/480p/h264/1652425268946984260/mda-nec91x1nvgejnd5u.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033746-0-0-1964bc131eb8a4757e126fa7072034c8&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0346634098&vid=13175973280064025498&abtest=all
 地锅鸡,https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-hbe&auth_key=1655033701-0-0-448270cbc0e8dd01b1d3e3e79c645ede&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=0300946132&vid=11820591972211290892&abtest=all#https://vd4.bdstatic.com/mda-nee3w9hvysz2htkk/480p/h264/1652583640234131248/mda-nee3w9hvysz2htkk.mp4?v_from_s=hkapp-haokan-nanjing&auth_key=1655204769-0-0-307f31c8d52fc424d102f72fc60b80f3&bcevod_channel=searchbox_feed&pd=1&cd=0&pt=3&logid=2169229312&vid=11820591972211290892&abtest=all

@@ -1,19 +1,22 @@
 [
 {"name":"推荐","list":[
-{"name":"『网游鹰』免费分享持续更新","url":"","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/OIP-C__2_.jpg?inline=false","version":"努力进步"},
-{"name":"『网游鹰』6月2日","url":"","icon":"https://git.acwing.com/wyy-jg/tvbox/-/raw/main/%E5%9B%BE%E7%89%87/OIP-C__2_.jpg?inline=false","version":"内置软件已新增3个软件"}]
+{"name":"『网游鹰』免费分享持续更新","url":"","icon":"http://pan.m12121.cn/view.php/8626115a9a87d073e9e736a3268f9cb0.jpg","version":"努力进步"},
+{"name":"『网游鹰』7月30日","url":"","icon":"http://pan.m12121.cn/view.php/8626115a9a87d073e9e736a3268f9cb0.jpg","version":"软件已更新"}]
 },
 
 {"name":"最新apk软件","list":[
-{"name":"影视仓","url":"http://pan.m12121.cn/down.php/ab1a7a123ecc36fbc80e9025a76ac9ef.apk","icon":"http://pan.m12121.cn/view.php/dfd07275e3fc9395c0c5f0245881881d.png","version":"5.0.35.1版"},
-{"name":"可视TV版","url":"http://pan.m12121.cn/down.php/c9c8a0873488f579849b5cc5994fd012.apk","icon":"http://pan.m12121.cn/view.php/b613e987b5ae53fcb6cf8ffeedef2293.png","version":"可视TV-1.9.5版"},
-{"name":"影视仓TV海信版","url":"http://pan.m12121.cn/down.php/de747a8ae44639aecc8991d316ed0bd3.apk","icon":"http://pan.m12121.cn/view.php/dfd07275e3fc9395c0c5f0245881881d.png","version":"5.0.35.1海信专用版"},
+{"name":"影视仓","url":"http://pan.m12121.cn/down.php/7c24501f238464844016e6b9f071b1d4.apk","icon":"http://pan.m12121.cn/view.php/dfd07275e3fc9395c0c5f0245881881d.png","version":"5.0.38版"},
+{"name":"可视TV版","url":"http://pan.m12121.cn/down.php/32da4ce353ac4c7feca189cf9d48d968.apk","icon":"http://pan.m12121.cn/view.php/b613e987b5ae53fcb6cf8ffeedef2293.png","version":"可视TV-1.9.8版"},
+{"name":"影视仓TV海信版","url":"http://pan.m12121.cn/down.php/be726c4b7bda4fad6c8f5d93308dad61.apk","icon":"http://pan.m12121.cn/view.php/dfd07275e3fc9395c0c5f0245881881d.png","version":"5.0.35海信专用版"},
 {"name":"海信专版_OK影视2.4.3版","url":"http://pan.m12121.cn/down.php/655ba3420893a263f69cbbf5e7df178b.apk","icon":"http://pan.m12121.cn/view.php/4a3ef1ce1c84f16c19c555cbb5642986.png","version":"海信专版_OK影视2.4.3.版"},
 {"name":"OK影视","url":"http://pan.m12121.cn/down.php/477e630e1f639caa606d92f22f768823.apk","icon":"http://pan.m12121.cn/view.php/4a3ef1ce1c84f16c19c555cbb5642986.png","version":"OK影视2.4.3版"},
 {"name":"影视仓手机版","url":"http://pan.m12121.cn/down.php/d2950290ea97c360c37f773a4421dd2b.apk","icon":"http://pan.m12121.cn/view.php/8708f6a068a6089a239c01314a401869.png","version":"2.0.35_短视频版"},
 {"name":"影视仓手机版","url":"http://pan.m12121.cn/down.php/975d1b5595e3da311ad0f7d3a433706f.apk","icon":"http://pan.m12121.cn/view.php/48ba97b3c0057866d7531aae6e5362d3.png","version":"2.0.35_游戏版"},
 {"name":"影迷手机版","url":"http://pan.m12121.cn/down.php/f656928c325bc2b0a64c75b741109e54.apk","icon":"http://pan.m12121.cn/view.php/db5fe7657e91e76e1368dd10d358d950.png","version":"影迷_2.5.2版"},
-{"name":"EasyBox手机版","url":"http://pan.m12121.cn/down.php/87afac1427ff79c39c91666951ce9310.apk","icon":"http://pan.m12121.cn/view.php/e83f1bb4d48978a294119e96e078fade.png","version":"EasyBox_1.3.9.3版"}
+{"name":"EasyBox手机版","url":"http://pan.m12121.cn/down.php/01159323b69165a0e3d8aed5b06fa1a6.apk","icon":"http://pan.m12121.cn/view.php/e83f1bb4d48978a294119e96e078fade.png","version":"EasyBox_1.3.9.8版"},
+{"name":"player版","url":"http://pan.m12121.cn/down.php/ac4b3f41b8268c05c1a42563e3477d2d.apk","icon":"http://pan.m12121.cn/view.php/d40ab3384cd46d3542528c0be50bbf91.png","version":"player_5.0.36.1版"},
+{"name":"接口文件（多仓）","url":"http://pan.m12121.cn/down.php/3a055157d05e6c9b500a5c7efd801b3e.zip","icon":"http://pan.m12121.cn/view.php/d0c09d957a2c5a03350203f70edcc53b.jpg","version":"奇奇本地仓-20240712"}
+
 
 ]},
 
@@ -21,7 +24,10 @@
 {"name":"河南IPTV(移动宽带用户)","url":"http://pan.m12121.cn/down.php/80683df9be8a007927aa8056beb40299.apk","icon":"http://pan.m12121.cn/view.php/536e653519f55ea9f8cd28de882773fb.png","version":"河南移动IPTV.v4.1.2z版"},
 {"name":"河南IPTV(电信宽带用户)","url":"http://pan.m12121.cn/down.php/f9e131e0070e0708af36f4e7279b7798.apk","icon":"http://pan.m12121.cn/view.php/23a44e55e3225e8f856a66e870d7af53.png","version":"河南电信IPTV-v3.HW.1.66版"},
 {"name":"小微直播","url":"http://pan.m12121.cn/down.php/54ed62fd5e84d7d79c1b271f13d2970f.apk","icon":"http://pan.m12121.cn/view.php/94b39cdf16de5b4390cfaedd651ac3bf.png","version":"小微直播2.8.0.3.版"},
-{"name":"有线电视","url":"http://pan.m12121.cn/down.php/a1933a2591df652615c8cae1ebee63bd.apk","icon":"http://pan.m12121.cn/view.php/ddb0b946f425d92ab84a562d4c825708.png","version":"1.0.9版"}
+{"name":"有线电视","url":"http://pan.m12121.cn/down.php/a1933a2591df652615c8cae1ebee63bd.apk","icon":"http://pan.m12121.cn/view.php/ddb0b946f425d92ab84a562d4c825708.png","version":"1.0.9版"},
+{"name":"我的电视","url":"http://pan.m12121.cn/down.php/352d2f4b750bffcac3c36046fc3635cf.apk","icon":"http://pan.m12121.cn/view.php/55de8ad7023905e76713d06ac3e824d6.png","version":"1.4.3版"}
+
+
 ]},
 
 {"name":"手机软件","list":[
@@ -29,8 +35,6 @@
 {"name":"小米电视助手","url":"http://pan.m12121.cn/down.php/37024f0d0e61ee33a0bf810a90a00066.apk","icon":"http://pan.m12121.cn/view.php/f0f0f64681d0a9f7c97e114b59ef162e.png","version":"小米电视助手2.7.2版"},
 {"name":"TVBOX助手","url":"http://pan.m12121.cn/down.php/5896fe49dafa7df2a6db49a8b207e5e9.apk","icon":"http://pan.m12121.cn/view.php/7fc86248afc15665f899ecbbe12fbd04.png","version":"2.2.0版"},
 {"name":"TKCK一键获取","url":"http://pan.m12121.cn/down.php/73296b901b63fd1b90d7cac676ec57f3.apk","icon":"http://pan.m12121.cn/view.php/4fc21d63820d667330cc50dd1094206e.png","version":"TKCK一键获取-1.0.9版"},
-{"name":"小白管理器","url":"http://pan.m12121.cn/down.php/849f3a257ffbb45f7ca396ab29c57b80.apk","icon":"http://pan.m12121.cn/view.php/ddc053439fda44761a190dafc0101957.png","version":"2.8.0版"},
-{"name":"超卓管理器","url":"http://pan.m12121.cn/down.php/337f8864e940058d119572be19b111b9.apk","icon":"http://pan.m12121.cn/view.php/089df5ea9429f44d3cd02952af89f2f3.png","version":"15.4.4版"},
 {"name":"DIYP播放器","url":"http://pan.m12121.cn/down.php/c06f1d90a4071b2d9738d95b28cc0c90.apk","icon":"http://pan.m12121.cn/view.php/b3ae8ee9c26fd50b3ae7fcc209a0acec.png","version":"DIYP影音Final版"},
 {"name":"DIYP播放器","url":"http://pan.m12121.cn/down.php/04791a81c3264702a1f8856500aa7687.apk","icon":"http://pan.m12121.cn/view.php/6bcabef97a272ffa06ceade0ade24179.png","version":"DIYP影音5.2.0版"},
 {"name":"直播仓V3","url":"http://pan.m12121.cn/down.php/959fbc71a393134816c88c434844b6e0.apk","icon":"http://pan.m12121.cn/view.php/1b0a1b734a764fd0504d7f4e75c8bd10.png","version":"3.0.37版"},
@@ -44,14 +48,10 @@
 {"name":"IDM+","url":"http://pan.m12121.cn/down.php/41236b12ba9fd197bbf58a204bd4af53.apk","icon":"http://pan.m12121.cn/view.php/e028f90abfe7d65b0835c9e4a427d032.png","version":"16.0版64位安卓7.0使用"},
 {"name":"IDM+","url":"http://pan.m12121.cn/down.php/0492a6151896516981d7eb52c5389c1f.apk","icon":"http://pan.m12121.cn/view.php/e028f90abfe7d65b0835c9e4a427d032.png","version":"16.0版64位安卓4.0使用"},
 {"name":"ES管理器","url":"http://pan.m12121.cn/down.php/376fb24d6d53371b98750a880b416524.apk","icon":"http://pan.m12121.cn/view.php/56498a1bfe827f40402d0b1fd1e1537c.png","version":"4.4.2.10版"},
-{"name":"MT管理器","url":"http://pan.m12121.cn/down.php/13601dada55e7fa287c2573b53f62bd4.apk","icon":"http://pan.m12121.cn/view.php/0b765e5d532324b8636e3e34fd1d18f2.png","version":"2.16.1版"},
+{"name":"MT管理器","url":"http://pan.m12121.cn/down.php/642ac095cc9f2db69f59715e7d20fc7f.apk","icon":"http://pan.m12121.cn/view.php/0b765e5d532324b8636e3e34fd1d18f2.png","version":"2.16.4版"},
 {"name":"NP管理器","url":"http://pan.m12121.cn/down.php/2506a265b6b67ce611cd29c76aedd000.apk","icon":"http://pan.m12121.cn/view.php/d188f973b0edaa4a1c87736519d5257b.png","version":"3.1.9版"},
 {"name":"小白管理器","url":"http://pan.m12121.cn/down.php/849f3a257ffbb45f7ca396ab29c57b80.apk","icon":"http://pan.m12121.cn/view.php/ddc053439fda44761a190dafc0101957.png","version":"2.8.0版"},
-{"name":"超卓管理器","url":"http://pan.m12121.cn/down.php/337f8864e940058d119572be19b111b9.apk","icon":"http://pan.m12121.cn/view.php/089df5ea9429f44d3cd02952af89f2f3.png","version":"15.4.4版"},
-{"name":"DIYP播放器","url":"http://pan.m12121.cn/down.php/c06f1d90a4071b2d9738d95b28cc0c90.apk","icon":"http://pan.m12121.cn/view.php/b3ae8ee9c26fd50b3ae7fcc209a0acec.png","version":"DIYP影音Final版"},
-{"name":"DIYP播放器","url":"http://pan.m12121.cn/down.php/04791a81c3264702a1f8856500aa7687.apk","icon":"http://pan.m12121.cn/view.php/6bcabef97a272ffa06ceade0ade24179.png","version":"DIYP影音5.2.0版"},
-{"name":"直播仓V3","url":"http://pan.m12121.cn/down.php/959fbc71a393134816c88c434844b6e0.apk","icon":"http://pan.m12121.cn/view.php/1b0a1b734a764fd0504d7f4e75c8bd10.png","version":"3.0.37版"},
-{"name":"MX播放器","url":"http://pan.m12121.cn/down.php/72ced8b13a0a247d3b5f93aed3888c7e.apk","icon":"http://pan.m12121.cn/view.php/e959b6167207b5fe20667cacc126ca3b.png","version":"1.64.4版"}
+{"name":"超卓管理器","url":"http://pan.m12121.cn/down.php/337f8864e940058d119572be19b111b9.apk","icon":"http://pan.m12121.cn/view.php/089df5ea9429f44d3cd02952af89f2f3.png","version":"15.4.4版"}
 ]},
 
 {"name":"内置接口软件","list":[
