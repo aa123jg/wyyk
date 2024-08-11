@@ -3,313 +3,94 @@
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=1
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-1 综合,http://[2409:8087:7000:20::11]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/index.m3u8
-CCTV-1 综合,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
-CCTV-1 综合,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1 综合,http://183.134.3.22:8888/newlive/live/hls/2/live.m3u8
-CCTV-1 综合,http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8
-CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
-CCTV-1 综合,http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1 综合,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
-CCTV-1 综合,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
-CCTV-1 综合,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8?
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=1
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-2 财经,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
-CCTV-2 财经,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-2 财经,http://221.213.43.82:8888/newlive/live/hls/3/live.m3u8
-CCTV-2 财经,http://221.2.36.34:8888/newlive/live/hls/3/live.m3u8
-CCTV-2 财经,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/index.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
-CCTV-2 财经,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8?
-CCTV-2 财经,http://221.2.146.228:8888/newlive/live/hls/3/live.m3u8
-CCTV-2 财经,http://183.134.3.22:8888/newlive/live/hls/3/live.m3u8
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=1
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-3 综艺,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226614/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-3 综艺,http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-CCTV-3 综艺,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-3 综艺,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
-CCTV-3 综艺,http://124.115.205.101:8888/newlive/live/hls/4/live.m3u8
-CCTV-3 综艺,http://221.2.146.228:8888/newlive/live/hls/4/live.m3u8
-CCTV-3 综艺,http://58.19.38.233:8888/newlive/live/hls/4/live.m3u8
-CCTV-3 综艺,http://183.134.3.22:8888/newlive/live/hls/4/live.m3u8
-CCTV-3 综艺,http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-4 国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8?icpid=88888888&servicetype=1
 CCTV-4 国际,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226656/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-4 国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226656/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-4 国际,http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-CCTV-4 国际,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 国际,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
-CCTV-4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV-4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
-CCTV-4 国际,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV-4 国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
-CCTV-4 国际,http://221.2.146.228:8888/newlive/live/hls/5/live.m3u8
 CCTV-5 体育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8?icpid=88888888&servicetype=1
 CCTV-5 体育,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226635/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-5 体育,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226635/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-5 体育,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
-CCTV-5 体育,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5 体育,http://223.95.111.98:5555/newlive/live/hls/5/live.m3u8
-CCTV-5 体育,http://124.115.205.101:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
-CCTV-5 体育,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
-CCTV-5 体育,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
-CCTV-5 体育,http://58.19.38.233:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://183.134.3.22:8888/newlive/live/hls/6/live.m3u8
-CCTV-5 体育,http://61.182.33.218:8000/hls/5/index.m3u8
 CCTV-5+ 赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8?icpid=88888888&servicetype=1
 CCTV-5+ 赛事,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226609/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-5+ 赛事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226609/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-5+ 赛事,http://[2409:8087:7000:20::203]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/index.m3u8
-CCTV-5+ 赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
-CCTV-5+ 赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225761/1.m3u8
-CCTV-5+ 赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV-6 电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8?icpid=88888888&servicetype=1
 CCTV-6 电影,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226637/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-6 电影,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226637/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-6 电影,http://[2409:8087:7000:20::15]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-CCTV-6 电影,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-CCTV-6 电影,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226393/1.m3u8
-CCTV-6 电影,http://124.115.205.101:8888/newlive/live/hls/8/live.m3u8
-CCTV-6 电影,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
-CCTV-6 电影,http://221.2.146.228:8888/newlive/live/hls/7/live.m3u8
-CCTV-6 电影,http://183.134.3.22:8888/newlive/live/hls/7/live.m3u8
-CCTV-6 电影,http://111.20.35.103:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-7 军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8?icpid=88888888&servicetype=1
 CCTV-7 军事,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226678/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-7 军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226678/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-7 军事,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
-CCTV-7 军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-7 军事,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/1.m3u8
-CCTV-7 军事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226192/index.m3u8
-CCTV-7 军事,http://58.19.38.233:8888/newlive/live/hls/9/live.m3u8
-CCTV-7 军事,http://221.2.146.228:8888/newlive/live/hls/8/live.m3u8
-CCTV-7 军事,http://183.134.3.22:8888/newlive/live/hls/8/live.m3u8
-CCTV-7 军事,http://61.182.33.218:8000/hls/7/index.m3u8
 CCTV-8 电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8?icpid=88888888&servicetype=1
 CCTV-8 电视剧,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226687/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-8 电视剧,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226687/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-8 电视剧,http://[2409:8087:7001:20:3::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8
-CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226391/1.m3u8
-CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-8 电视剧,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/1.m3u8
-CCTV-8 电视剧,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226012/index.m3u8
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-8 电视剧,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226012/index.m3u8?
 CCTV-9 纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8?icpid=88888888&servicetype=1
 CCTV-9 纪录,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226726/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-9 纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-9 纪录,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
-CCTV-9 纪录,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-9 纪录,http://221.213.43.82:8888/newlive/live/hls/11/live.m3u8
-CCTV-9 纪录,http://222.71.90.218:8888/newlive/live/hls/10/live.m3u8
-CCTV-9 纪录,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV-9 纪录,http://223.95.111.98:5555/newlive/live/hls/9/live.m3u8
-CCTV-9 纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/1.m3u8
-CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226197/index.m3u8
-CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
-CCTV-9 纪录,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8?
-CCTV-9 纪录,http://221.2.146.228:8888/newlive/live/hls/10/live.m3u8
-CCTV-9 纪录,http://183.134.3.22:8888/newlive/live/hls/10/live.m3u8
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=1
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-10 科教,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
-CCTV-10 科教,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
-CCTV-10 科教,http://221.213.43.82:8888/newlive/live/hls/12/live.m3u8
-CCTV-10 科教,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/index.m3u8
-CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
-CCTV-10 科教,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8?
-CCTV-10 科教,http://221.2.146.228:8888/newlive/live/hls/11/live.m3u8
-CCTV-10 科教,https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
-CCTV-10 科教,http://183.134.3.22:8888/newlive/live/hls/11/live.m3u8
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=1
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-11 戏曲,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/index.m3u8
-CCTV-11 戏曲,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
-CCTV-11 戏曲,http://183.134.3.22:8888/newlive/live/hls/12/live.m3u8
-CCTV-11 戏曲,http://58.19.38.233:8888/newlive/live/hls/13/live.m3u8
-CCTV-11 戏曲,http://221.2.146.228:8888/newlive/live/hls/12/live.m3u8
-CCTV-11 戏曲,http://gmxw.7766.org:808/hls/29/index.m3u8
-CCTV-11 戏曲,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=1
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-12 社会与法,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/index.m3u8
-CCTV-12 社会与法,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226190/1.m3u8
-CCTV-12 社会与法,http://58.19.38.233:8888/newlive/live/hls/14/live.m3u8
-CCTV-12 社会与法,http://183.134.3.22:8888/newlive/live/hls/13/live.m3u8
-CCTV-12 社会与法,http://221.2.146.228:8888/newlive/live/hls/13/live.m3u8
-CCTV-12 社会与法,http://223.95.111.98:5555/newlive/live/hls/12/live.m3u8
 CCTV-13 新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=1
 CCTV-13 新闻,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-13 新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-13 新闻,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
-CCTV-13 新闻,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-13 新闻,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-13 新闻,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
-CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
-CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV-13 新闻,http://58.19.38.233:8888/newlive/live/hls/15/live.m3u8
-CCTV-13 新闻,http://221.213.43.82:8888/newlive/live/hls/15/live.m3u8
-CCTV-13 新闻,http://124.115.205.101:8888/newlive/live/hls/15/live.m3u8
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=1
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-14 少儿,http://[2409:8087:7001:20:3::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/index.m3u8
-CCTV-14 少儿,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
-CCTV-14 少儿,http://221.2.146.228:8888/newlive/live/hls/15/live.m3u8
-CCTV-14 少儿,http://gmxw.7766.org:808/hls/32/index.m3u8
-CCTV-14 少儿,http://223.95.111.98:5555/newlive/live/hls/14/live.m3u8
-CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226193/1.m3u8
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=1
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-15 音乐,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-CCTV-15 音乐,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-15 音乐,http://221.2.146.228:8888/newlive/live/hls/16/live.m3u8
-CCTV-15 音乐,http://58.19.38.233:8888/newlive/live/hls/17/live.m3u8
-CCTV-15 音乐,http://183.134.3.22:8888/newlive/live/hls/16/live.m3u8
-CCTV-15 音乐,http://221.213.43.82:8888/newlive/live/hls/17/live.m3u8
-CCTV-15 音乐,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
-CCTV-15 音乐,http://124.115.205.101:8888/newlive/live/hls/17/live.m3u8
-CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
-CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/index.m3u8
-CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
-CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
 CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=1
 CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-16 奥林匹克,http://[2409:8087:7001:20:3::9]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
-CCTV-16 奥林匹克,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16 奥林匹克,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8
-CCTV-16 奥林匹克,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=1
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-17 农业军事,http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8
-CCTV-17 农业军事,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/1.m3u8
-CCTV-17 农业军事,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227592/index.m3u8
-CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8
-CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
-CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
-CCTV-5 体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-中国教育1台,ttp://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-中国教育2台,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-中国教育3台,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001309/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-中国教育4台,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
-央视台球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+
+
+
 
 🔴  移动卫视频道,#genre#
 
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/index.m3u8?icpid=88888888&servicetype=1
 北京卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226519/index.m3u8?icpid=88888888&servicetype=3&playseek=
 北京卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226519/index.m3u8?icpid=88888888&servicetype=2&npt=
-北京卫视,http://[2409:8087:7001:20:2::2]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/index.m3u8
-北京卫视,http://39.165.24.218:808/hls/47/index.m3u8
-北京卫视,http://120.194.237.190:808/hls/47/index.m3u8
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
-北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=1
 天津卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=3&playseek=
 天津卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226621/index.m3u8?icpid=88888888&servicetype=2&npt=
-天津卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226459/index.m3u8
-天津卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/index.m3u8?icpid=88888888&servicetype=1
 深圳卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226700/index.m3u8?icpid=88888888&servicetype=3&playseek=
 深圳卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226700/index.m3u8?icpid=88888888&servicetype=2&npt=
-深圳卫视,http://[2409:8087:7000:20::15]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225801/index.m3u8
-深圳卫视,http://171.221.240.108:808/hls/20/index.m3u8
-深圳卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8?icpid=88888888&servicetype=1
 重庆卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226676/index.m3u8?icpid=88888888&servicetype=3&playseek=
 重庆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226676/index.m3u8?icpid=88888888&servicetype=2&npt=
-重庆卫视,http://[2409:8087:7000:20::18]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/index.m3u8
-重庆卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225791/index.m3u8
-重庆卫视,http://221.213.43.82:8888/newlive/live/hls/31/live.m3u8
-重庆卫视,http://27.185.1.27:8092/hls/26/index.m3u8
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8?icpid=88888888&servicetype=1
 东方卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226681/index.m3u8?icpid=88888888&servicetype=3&playseek=
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226681/index.m3u8?icpid=88888888&servicetype=2&npt=
-东方卫视,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225797/index.m3u8
-东方卫视,http://118.122.2.29:9999/hls/22/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/8888881/224/3221226217/index.m3u8
-东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225797/index.m3u8
-东方卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8?icpid=88888888&servicetype=1
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226722/index.m3u8?icpid=88888888&servicetype=3&playseek=
 江苏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226722/index.m3u8?icpid=88888888&servicetype=2&npt=
-江苏卫视,http://[2409:8087:7000:20::17]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/index.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
-江苏卫视,http://39.165.24.218:808/hls/46/index.m3u8
-江苏卫视,http://120.194.237.190:808/hls/46/index.m3u8
-江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8?
-江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225800/1.m3u8
-江苏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8?icpid=88888888&servicetype=1
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226682/index.m3u8?icpid=88888888&servicetype=3&playseek=
 浙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226682/index.m3u8?icpid=88888888&servicetype=2&npt=
-浙江卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225798/index.m3u8
-浙江卫视,http://39.165.24.218:808/hls/44/index.m3u8
-浙江卫视,http://120.194.237.190:808/hls/44/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://222.71.90.218:8888/newlive/live/hls/20/live.m3u8
-浙江卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225798/index.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 辽宁卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8?icpid=88888888&servicetype=1
 辽宁卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226586/index.m3u8?icpid=88888888&servicetype=3&playseek=
 辽宁卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226586/index.m3u8?icpid=88888888&servicetype=2&npt=
-辽宁卫视,http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226201/index.m3u8
-辽宁卫视,http://39.165.24.218:808/hls/56/index.m3u8
-辽宁卫视,http://120.194.237.190:808/hls/56/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
-辽宁卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8?icpid=88888888&servicetype=1
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226684/index.m3u8?icpid=88888888&servicetype=3&playseek=
 吉林卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226684/index.m3u8?icpid=88888888&servicetype=2&npt=
-吉林卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
-吉林卫视,http://39.165.24.218:808/hls/64/index.m3u8
-吉林卫视,http://120.194.237.190:808/hls/64/index.m3u8
-吉林卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 黑龙江卫视,http://[2409:8087:7000:20::f]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226533/index.m3u8?icpid=88888888&servicetype=3&playseek=
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8?icpid=88888888&servicetype=1
 黑龙江卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226533/index.m3u8?icpid=88888888&servicetype=2&npt=
-黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
-黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
-黑龙江卫视,http://171.221.240.108:808/hls/25/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-28bc40431485/index.m3u8
@@ -318,77 +99,36 @@ CCTV-5 体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLT
 河北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/index.m3u8?icpid=88888888&servicetype=1
 河北卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226611/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226611/index.m3u8?icpid=88888888&servicetype=2&npt=
-河北卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
-河北卫视,http://120.194.237.190:808/hls/59/index.m3u8
-河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
-河北卫视,https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=3944fff7fdd8f8caf6adce2c9a0ef126
-河北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8?icpid=88888888&servicetype=1
 河南卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226639/index.m3u8?icpid=88888888&servicetype=3&playseek=
 河南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226639/index.m3u8?icpid=88888888&servicetype=2&npt=
-河南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
-河南卫视,http://39.165.24.218:808/hls/24/index.m3u8
-河南卫视,http://120.194.237.190:808/hls/24/index.m3u8
-河南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8?icpid=88888888&servicetype=1
 山东卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226564/index.m3u8?icpid=88888888&servicetype=3&playseek="
 山东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226564/index.m3u8?icpid=88888888&servicetype=2&npt=
-山东卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226209/index.m3u8
-山东卫视,http://39.165.24.218:808/hls/50/index.m3u8
-山东卫视,http://120.194.237.190:808/hls/50/index.m3u8
-山东卫视,http://39.153.247.27:808/hls/37/index.m3u8
-山东卫视,http://222.71.90.218:8888/newlive/live/hls/26/live.m3u8
-山东卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
-山西卫视,http://liveflash.sxrtv.com/live/sxwshd.m3u8?sub_m3u8=true&edge_slice=true
 山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?icpid=88888888&servicetype=1
 山西卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8?icpid=88888888&servicetype=3&playseek=
 山西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?icpid=88888888&servicetype=2&npt=
-山西卫视,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8?icpid=88888888&servicetype=1
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226578/index.m3u8?icpid=88888888&servicetype=3&playseek=
 安徽卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226578/index.m3u8?icpid=88888888&servicetype=2&npt=
-安徽卫视,http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226196/index.m3u8
-安徽卫视,http://39.165.24.218:808/hls/51/index.m3u8
-安徽卫视,http://120.194.237.190:808/hls/51/index.m3u8
-安徽卫视,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829313317020.m3u8
-安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 湖北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8?icpid=88888888&servicetype=1
 湖北卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226579/index.m3u8?icpid=88888888&servicetype=3&playseek=
 湖北卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226579/index.m3u8?icpid=88888888&servicetype=2&npt=
-湖北卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/index.m3u8
-湖北卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
-湖北卫视,http://39.165.24.218:808/hls/54/index.m3u8
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8?icpid=88888888&servicetype=1
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226659/index.m3u8?icpid=88888888&servicetype=3&playseek=
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226659/index.m3u8?icpid=88888888&servicetype=2&npt=
-湖南卫视,http://[2409:8087:7001:20:3::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225799/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
-湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
-湖南卫视,http://221.213.43.82:8888/newlive/live/hls/23/live.m3u8
 广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?icpid=88888888&servicetype=1
 广东卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226525/index.m3u8?icpid=88888888&servicetype=3&playseek=
 广东卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226525/index.m3u8?icpid=88888888&servicetype=2&npt=
-广东卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225803/index.m3u8
-广东卫视,http://39.165.24.218:808/hls/48/index.m3u8
-广东卫视,http://120.194.237.190:808/hls/48/index.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&servicetype=1
 广西卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8?icpid=88888888&servicetype=3&playseek=
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&servicetype=2&npt=
-广西卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-广西卫视,http://118.122.2.29:9999/hls/37/index.m3u8
 江西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8?icpid=88888888&servicetype=1
 江西卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226594/index.m3u8?icpid=88888888&servicetype=3&playseek=
 江西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226594/index.m3u8?icpid=88888888&servicetype=2&npt=
-江西卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
-江西卫视,http://39.165.24.218:808/hls/60/index.m3u8
-江西卫视,http://120.194.237.190:808/hls/60/index.m3u8
-江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 云南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8?icpid=88888888&servicetype=1
 云南卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226660/index.m3u8?icpid=88888888&servicetype=3&playseek=
 云南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8?icpid=88888888&servicetype=2&npt=
-云南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
-云南卫视,http://39.165.24.218:808/hls/62/index.m3u8
-云南卫视,http://120.194.237.190:808/hls/62/index.m3u8
 贵州卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226632/index.m3u8?icpid=88888888&servicetype=1
 贵州卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226632/index.m3u8?icpid=88888888&servicetype=3&playseek=
@@ -397,80 +137,41 @@ CCTV-5 体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLT
 四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8?icpid=88888888&servicetype=1
 四川卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226573/index.m3u8?icpid=88888888&servicetype=3&playseek=
 四川卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226573/index.m3u8?icpid=88888888&servicetype=2&npt=
-四川卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-四川卫视,http://39.165.24.218:808/hls/61/index.m3u8
-四川卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
-四川卫视,http://171.221.240.108:808/hls/31/index.m3u8
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?icpid=88888888&servicetype=1
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226591/index.m3u8?icpid=88888888&servicetype=3&playseek=
 陕西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8?icpid=88888888&servicetype=2&npt=
-陕西卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
-陕西卫视,http://39.165.24.218:808/hls/57/index.m3u8
-陕西卫视,http://120.194.237.190:808/hls/57/index.m3u8
-内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8?icpid=88888888&servicetype=1
 内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226517/index.m3u8?icpid=88888888&servicetype=3&playseek=
 内蒙古卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226517/index.m3u8?icpid=88888888&servicetype=2&npt=
-内蒙古卫视,http://[2409:8087:1a0b:df::4017]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 宁夏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8?icpid=88888888&servicetype=1
 宁夏卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226710/index.m3u8?icpid=88888888&servicetype=3&playseek=
 宁夏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226710/index.m3u8?icpid=88888888&servicetype=2&npt=
-宁夏卫视,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
-宁夏卫视,https://livepgc.cmc.ningxiahuangheyun.com/tv/nxws.m3u8
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8?icpid=88888888&servicetype=1
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226547/index.m3u8?icpid=88888888&servicetype=3&playseek=
 甘肃卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8?icpid=88888888&servicetype=2&npt=
-甘肃卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
-甘肃卫视,http://39.165.24.218:808/hls/71/index.m3u8
-甘肃卫视,http://120.194.237.190:808/hls/71/index.m3u8
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8?icpid=88888888&servicetype=1
 青海卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226584/index.m3u8?icpid=88888888&servicetype=3&playseek=
 青海卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226584/index.m3u8?icpid=88888888&servicetype=2&npt=
-青海卫视,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
-青海卫视,http://39.165.24.218:808/hls/72/index.m3u8
-青海卫视,http://120.194.237.190:808/hls/72/index.m3u8
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=2dee6a651676210262
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=f35a89681647856030
-青海卫视,http://stream.qhbtv.com/qhws/sd/live.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902
 安多卫视,http://stream.qhbtv.com/adws/sd/live.m3u8
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8?icpid=88888888&servicetype=1
 东南卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226720/index.m3u8?icpid=88888888&servicetype=3&playseek=
 东南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226720/index.m3u8?icpid=88888888&servicetype=2&npt=
-东南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
-东南卫视,http://39.165.24.218:808/hls/66/index.m3u8
-东南卫视,http://120.194.237.190:808/hls/66/index.m3u8
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8?icpid=88888888&servicetype=1
 海南卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226562/index.m3u8?icpid=88888888&servicetype=3&playseek=
 海南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226562/index.m3u8?icpid=88888888&servicetype=2&npt=
-海南卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
-海南卫视,http://39.165.24.218:808/hls/70/index.m3u8
-海南卫视,http://120.194.237.190:808/hls/70/index.m3u8
-海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
-海南卫视,http://118.122.2.29:9999/hls/48/index.m3u8
-海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 厦门卫视,https://xiamenalic.v.myalicdn.com/xiamen/xiamen_1/index.m3u8
 厦门卫视,http://[2409:8087:7001:20:3::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226219/index.m3u8
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226657/index.m3u8?icpid=88888888&servicetype=1
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226657/index.m3u8?icpid=88888888&servicetype=3&playseek=
 新疆卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226657/index.m3u8?icpid=88888888&servicetype=2&npt=
-新疆卫视,http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
-新疆卫视,http://39.165.24.218:808/hls/73/index.m3u8
-新疆卫视,http://120.194.237.190:808/hls/73/index.m3u8
 兵团卫视,https://test5.btzx.com.cn/live/2023bt.stream/playlist.m3u8
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226669/index.m3u8?icpid=88888888&servicetype=1
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226669/index.m3u8?icpid=88888888&servicetype=3&playseek=
 西藏卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226669/index.m3u8?icpid=88888888&servicetype=2&npt=
-西藏卫视,http://[2409:8087:7001:20:2::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/index.m3u8
-西藏卫视,http://39.165.24.218:808/hls/74/index.m3u8
-西藏卫视,http://120.194.237.190:808/hls/74/index.m3u8
-西藏卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8
-西藏卫视,http://118.122.2.29:9999/hls/45/index.m3u8
 大湾区卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 大湾区卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 大湾区卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8

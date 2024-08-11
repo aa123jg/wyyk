@@ -2,7 +2,6 @@
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=1
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-1 综合,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226706/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-1 综合,http://222.81.86.42:8060/hls/ch3/ch3.m3u8
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=1
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-2 财经,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226569/index.m3u8?icpid=88888888&servicetype=2&npt=
@@ -33,11 +32,9 @@ CCTV-9 纪录,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226726/in
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=1
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-10 科教,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226528/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-10 科教,https://epg.pw/stream/6ef5ffbb8c7555a1beee3d70767d5f42614470f8a2b7344cc478e75a0fe444a1.m3u8
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=1
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-11 戏曲,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-11 戏曲,http://gmxw.7766.org:808/hls/29/index.m3u8
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=1
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-12 社会与法,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226560/index.m3u8?icpid=88888888&servicetype=2&npt=
@@ -47,15 +44,20 @@ CCTV-13 新闻,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226543/i
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=1
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-14 少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226572/index.m3u8?icpid=88888888&servicetype=2&npt=
-CCTV-14 少儿,http://gmxw.7766.org:808/hls/32/index.m3u8
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=1
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-15 音乐,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226590/index.m3u8?icpid=88888888&servicetype=2&npt=
+CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=1
+CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=3&playseek=
+CCTV-16 奥林匹克,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226597/index.m3u8?icpid=88888888&servicetype=2&npt=
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=1
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/TVOD/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=3&playseek=
 CCTV-17 农业军事,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226630/index.m3u8?icpid=88888888&servicetype=2&npt=
-
-
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+CCTV-4K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/TVOD/3/224/3221228228/index.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
+CCTV-8K 超高清,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/TVOD/3/224/3221228165/index.m3u8
+CCTV-5 体育4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 
 🔵  卫视频道,#genre#
 
