@@ -21,10 +21,10 @@
  //    "jar": "./jars/XBPQ.jar",
 
 "sites":[    
+{"key":"直播转点播","name":"📡┃电视直播台","type":3,"searchable":0,"jar":"./jars/zhuzi0615.jar","api":"./tv/网游鹰直播vod.js","ext":"./tv/网游鹰直播.json"},
+{"key":"csp_皮皮影视","name":"🐸皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://m.qhmingshun.com/","分类url":"http://m.qhmingshun.com/catelogy/{cateId}{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$dianying#电视剧$lianxuju#剧情片$juqingpian"}},
 
-{"key":"csp_皮皮影视","name":"🐸皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://m.qhmingshun.com/","分类url":"http://m.qhmingshun.com/catelogy/{cateId}{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$dianying#电视剧$lianxuju#剧情片$juqingpian"}, "jar": "./jar/XBPQ.jar"},
-
-{"key":"csp_美益达","name":"🐸美益达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.myd04.com","分类url":"https://www.myd04.com/vodtype/{cateId}/{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}, "jar": "./jar/XBPQ.jar"},
+{"key":"csp_美益达","name":"🐸美益达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.myd04.com","分类url":"https://www.myd04.com/vodtype/{cateId}/{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
 {"key":"csp_猪猪影视","name":"🐷猪猪影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://www.jscptsb.com/","分类url":"http://www.jscptsb.com/{cateId}{area}{class}{year}/","分类":"电影$dianying#电视剧$dianshiju#剧情片$juqingpian#动漫$dongman#综艺$zongyi#剧情$juqing"}},
 
 { "key": "9云影院", "name": "9云影院", "type":3,"api":"csp_XBPQ", "jar": "./jars/XBPQ.jar","ext": {"简介":"小林子为您剧情介绍:+stui-content__desc\">&&","分类url":"https://www.9kuyun.com/frim/index{cateId}-{catePg}.html[https://www.9kuyun.com/frim/index{cateId}.html]","分类":"港台$2#日韩$1#其他$4#欧美$3"}},

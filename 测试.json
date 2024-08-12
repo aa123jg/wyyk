@@ -21,7 +21,7 @@
  //    "jar": "./jars/XBPQ.jar",
 
 "sites":[    
-
+{"key":"直播转点播","name":"📡┃电视直播台","type":3,"searchable":0,"api":"./tv/网游鹰直播vod.js","ext":"./tv/网游鹰直播.json"},
 {"key":"csp_皮皮影视","name":"🐸皮皮影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"http://m.qhmingshun.com/","分类url":"http://m.qhmingshun.com/catelogy/{cateId}{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$dianying#电视剧$lianxuju#剧情片$juqingpian"}},
 
 {"key":"csp_美益达","name":"🐸美益达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.myd04.com","分类url":"https://www.myd04.com/vodtype/{cateId}/{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
