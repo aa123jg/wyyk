@@ -20,10 +20,14 @@
  {"key":"NanGua","name":"🎖┃南瓜App","type":3,"jar":"./jars/custom_spider.jar","api":"csp_NanGua"},
  
  {"key": "csp_Nongm","name": "🎖┃农民影视","type": 3,"jar":"./jars/spidernm.jar","api": "csp_Nongm" },
-      
+
+ {"key": "君君","name": "🐉┃君君4K┃","playerType": 1,"type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.228.85.203:1000/api.php/app/"},      
+
+ {"key":" 神马电影网 ","name":"🎟神马电影网","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"分类url":"https://shenmazhan.com/vodtype/{cateId}/{area}/{by}/{class}/{lang}/{year}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$31"}},     
+
  {"key": "Auete","name": "🎖┃奥特直连","type":3,"jar":"./jars/custom_spider.jar", "api":"csp_Auete","ext":"https://auete.pro/"},
  
- {"key": "毛驴","name": "🎖┃毛驴影视","type": 3,"api": "csp_MaoLv","jar":"./jars/spidernm.jar","searchable": 1,"quickSearch": 1,"filterable": 1 },
+ {"key": "速讯","name": "🎖┃速讯影视","type": 3,"changeable": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"api": "csp_XBPQ","ext": {"分类url": "http://vip.suxun.site/vodshow/{cateId}--------{catePg}---{year}.html","分类": "电视剧$2#电影$1#动漫$4#综艺$3" } },
  
 {"key":"csp_美益达","name":"🎖┃美益达","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":0,"filterable":1,"ext":{"主页url":"https://www.myd04.com","分类url":"https://www.myd04.com/vodtype/{cateId}/{class}/area/{area}/year/{year}/page/{catePg}.html","分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"}},
   
@@ -150,9 +154,10 @@
  ],
 
  "parses":[
- {"name": "Json聚合","type": 3,"url": "Demo"},
-  { "name": "-wyy解析-", "type": 0, "url": "https://jx.xmflv.com/?url=","ext": {"flags": [ "youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "pptv", "PPTV", "mgtv", "wasu", "bilibili","bilibili1", "leshi","m1905", "seven", "m78" ]}},
- {"name": "-小米-","type": 1,"url": "https://cdn.suxun.site/api/?key=HRTgKIxjsFBAhDcrge&url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili", "1905" ],"header": {"User-Agent": "okhttp/4.9.1" }}},
+ 
+ {"name": "腾4K","type": 1,"url": "http://www.mpanso.com/woaini.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905" ],"header": {"User-Agent": "okhttp/4.9.1"}}},
+  {"name": "MeowTV","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57" }}},
+ { "name": "-wyy解析-", "type": 0, "url": "https://jx.xmflv.com/?url=","ext": {"flags": [ "youku", "qq", "QQ", "iqiyi", "qiyi", "letv", "sohu", "pptv", "PPTV", "mgtv", "wasu", "bilibili","bilibili1", "leshi","m1905", "seven", "m78" ]}},
  {"name": "-蜜蜂-","url": "https://jx.xmflv.cc/?url=","type": 0,"ext": {"flag": ["qiyi","imgo","爱奇艺","奇艺","qq","qq 预告及花絮","腾讯","youku","优酷","pptv","PPTV","letv","乐视","leshi","mgtv","芒果","sohu","xigua","fun","风行"]},"header": {"User-Agent": "Mozilla/5.0"}}, 
  {"name":"-巧技-","type":1,"url":"http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"]}},
  {"name":"-精选1-","type":0,"url":"https://player.bingdou.vip/?pass=14&url="},
