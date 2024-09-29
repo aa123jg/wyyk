@@ -121,7 +121,7 @@
 
  {"key":"QuarkPanso","name":"📀夸克盘搜|夸克","type":3,"api":"csp_QuarkPanso","quickSearch":0,"changeable":1,"filterable":1,"timeout":60,"ext":"./json/tokenm.json"},
 
- {"key":"push_agent","name":"🌺2024.09.15更新","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/alitoken.txt"}
+ {"key":"push_agent","name":"🌺2024.09.29更新","type":3,"api":"csp_PushAgent","playerType":1,"searchable":1,"quickSearch":0,"filterable":0,"ext":"./lib/alitoken.txt"}
  ],
 
  "parses":[
