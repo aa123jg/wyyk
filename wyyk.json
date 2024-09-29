@@ -23,8 +23,8 @@
  {"key":"xBPQ_网飞猫","name":"🐉┃网飞猫┃","type":3,"api":"csp_XBPQ","ext":{"数组":"<a&&</a>","图片":"data-original=\"&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>","搜索url":"https://www.ncat22.com/search?k=**&page=fypage","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"Netflix$https://www.ncat22.com/label/netflix.html#电影$1#电视剧$2#综艺$4#动漫$3"}}, 
  
  {"key": "即看影视","name": "🐉┃即看视频┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/即看.json"},
-     
- {"key": "XYQH_素白白","name": "🐉┃素白影视┃","type": 3,"api": "csp_XYQHiker","ext": "./json/素白白.json"},
+      
+ {"key": "csp_SuBaiBai","name": "🐉┃素白影视┃","type": 3,"jar":"./jars/spidernm.jar","api": "csp_SuBaiBai" },
     
  {"key":"明渊","name":"🐉┃明渊影视┃","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://v.miuu.cc/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$46"}},
    
