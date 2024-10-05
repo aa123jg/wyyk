@@ -17,7 +17,11 @@
  {"key":"南瓜","name":"🐉┃南瓜影视┃","type":3,"api":"csp_NanGua","jar": "./jars/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
  
  {"key": "首播站","name": "🐉┃首播站┃","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url":"https://shoubozhan.com/","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$32#今日更新$https://shoubozhan.com/label/new.html#热播榜$https://shoubozhan.com/label/hot.html","分类url": "https://shoubozhan.com/vodtype/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
- 
+ {
+  "key": "BT4K影院","name": "🐉┃BT4K影院┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "http://www.bt4kyy.cc/l/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "1&2&3&4"} }, 
+       
+ {"key": "木叶","name": "🐉┃BG木叶┃","type": 3,"api": "csp_Muye","playerType": 1,"jar": "http://cdn.qiaoji8.com/fix24914.jar","ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4" },  
+
  {"key": "Auete","name": "🐉┃奥特直连┃","type":3,"jar":"./jars/custom_spider.jar", "api":"csp_Auete","ext":"https://auete.pro/"},
  
  {"key": "小米","name": "🐉┃小米蓝光┃","type": 3,"click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();","api": "csp_FreeOK","jar": "./jars/xmpg.jar"},
