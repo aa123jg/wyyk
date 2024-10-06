@@ -14,7 +14,7 @@
 
  {"key":"应用商店","name":"🏫┃应用商店┃","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
  
- {"key":"南瓜","name":"🐉┃南瓜影视┃","type":3,"api":"csp_NanGua","jar": "./jars/fan.txt","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+  {"key": "南瓜","name": "🐉┃南瓜秒播┃","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/nangua.js" },
  
  {"key": "首播站","name": "🐉┃首播站┃","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url":"https://shoubozhan.com/","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$32#今日更新$https://shoubozhan.com/label/new.html#热播榜$https://shoubozhan.com/label/hot.html","分类url": "https://shoubozhan.com/vodtype/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
  {
