@@ -14,8 +14,6 @@
 
  {"key":"应用商店","name":"🏫┃应用商店┃","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
  
-  {"key": "南瓜","name": "🐉┃南瓜秒播┃","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/nangua.js" },
- 
  {"key": "首播站","name": "🐉┃首播站┃","type": 3,"searchable": 1,"quickSearch": 0,"filterable": 1,"api": "csp_XBPQ","ext": {"主页url":"https://shoubozhan.com/","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$32#今日更新$https://shoubozhan.com/label/new.html#热播榜$https://shoubozhan.com/label/hot.html","分类url": "https://shoubozhan.com/vodtype/show/area/{area}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html"}},
  {
   "key": "BT4K影院","name": "🐉┃BT4K影院┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "http://www.bt4kyy.cc/l/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "1&2&3&4"} }, 
@@ -38,7 +36,9 @@
  
 { "key": "CYMOVIE", "name": "🐉┃CYMOVIE┃", "type":3,"api":"csp_XBPQ", "ext": {"线路数组": "data-dropdown-value=&&</div>[不包含:❤超清无广]","分类url":"http://movie.yzcyj.net/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"连续剧$2#电影$1#综艺$3#动漫$4#短剧$32"}},
  
- {"key": "csp_SuBaiBai","name": "🐉┃素白影视┃","type": 3,"jar":"./jars/spidernm.jar","api": "csp_SuBaiBai" },
+ {"key": "yigeG影视","name": "🐉┃yigeG影视┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "https://yigeg.pro/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---year.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5" } },
+  
+  {"key": "csp_SuBaiBai","name": "🐉┃素白影视┃","type": 3,"jar":"./jars/spidernm.jar","api": "csp_SuBaiBai" },
  
  {"key":"csp_Kuaikan","name":"🐉┃快看影视┃","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},  
  
@@ -51,7 +51,8 @@
  {"key": "雨见视频","name": "🐉┃雨见蓝光┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"影片类型": "类型：&&</li>","简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>","分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"}},
         
  {"key": "一个G","name": "🐉┃逸哥蓝光┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"影片地区": "圥忈制作","影片年代": "<div class=\"module-info-tag\">&&</div>","影片状态": "备注：&&</div>","影片类型": "module-info-tag\">&&立即播放","简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>","线路数组": "data-dropdown-value=&&</div>","线路标题": "<span>&&</span>","分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5" }},       
- {"key": "CC影视","name": "🐉┃纯畅影视┃","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},   
+ 
+  {"key": "CC影视","name": "🐉┃纯畅影视┃","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://ys.ccbk.cc:86/mogai_api.php/v1.vod"},   
  
  {"key":"348影视","name":"🐉┃三四八源┃","type":3,"api":"csp_XBPQ","jar":"./jars/tvkj.jar","ua": "okhttp/3.15","searchable":1,"quickSearch":0,"filterable":1,"ext":"./json/348.json"}, 									
  
