@@ -14,15 +14,11 @@
 
  {"key":"应用商店","name":"🏫┃应用商店┃","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
  
- {"key": "腾讯","name": "🌟┃腾讯影视┃","type": 3,"api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/qihaoyyds/js/raw/master/腾讯影视.js"},
+ {"key": "腾讯","name": "🐉┃腾讯影视┃","type": 3,"api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/qihaoyyds/js/raw/master/腾讯影视.js"},
  
- {"key": "xiongmao2","name": "🌟┃猫咪高清┃","type": 3,"api": "https://3450.kstore.space/js/drpy_libs/drpy2.js","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/smallmi1007/mimi/raw/master/xiongmao.js" },
+ {"key": "客星","name": "🐉┃客星高清┃","type": 3,"api": "csp_Xdai","playerType": 2,"ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},
  
- {"key": "🌟客星","name": "🌟┃客星高清┃","type": 3,"api": "csp_Xdai","playerType": 2,"ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},
- 
- {"key": "繁荣","name": "🌟┃凡人高清┃","type": 3,"api": "csp_Frong","playerType": 2,"ext": "FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjgxMzN8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MzNhN2ZmYTljODU0MTJjNzQyZjdhMjA5fDI1fDU2ODY4NTQzNEZFQzdDOEMyOTBBRTRGQjMyNUZGMTMwfHNoaWppZW1hb3R2fDMzYTdmZmE5Yzg1NDEyYzc=","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f" },
- 
- {"key": "csp_Wwys","name": "🌟┃汪汪高清┃","type": 3,"playerType": 1,"changeable": 0,"api": "csp_Wwys","jar":" ./jars/1106.jar","ext": "https://www.wwgz.cn/"},
+ {"key": "csp_Wwys","name": "🐉┃汪汪高清┃","type": 3,"playerType": 1,"changeable": 0,"api": "csp_Wwys","jar":" ./jars/1106.jar","ext": "https://www.wwgz.cn/"},
  
  {"key": "农民弹幕","name": "🐉┃农民弹幕┃","type": 3,"api": "csp_Nmys","jar":" ./jars/spo.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
  
@@ -49,8 +45,6 @@
  {"key": "比特","name": "🐉┃比特纯净┃","type": 3,"api": "csp_Bttwoo","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 1,"changeable": 1},
  
  {"key": "酷影视","name": "🐉┃酷影纯净┃","type": 3,"api": "csp_AppYsV2","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
- 
- {"key": "csp_xBPQ_厂长资源","name": "🐉┃厂长资源┃","type": 3,"changeable": 1,"searchable": 1, "quickSearch": 0, "filterable": 1, "api": "csp_XBPQ","ext":"./json/厂长资源.txt"},  
 
  {"key": "小马","name": "🐉┃小马纯净┃","type": 3,"api": "csp_AppYsV2","jar":"./jars/moyu.php","ext": "https://mas.szyyds.cn/api.php/app/"},
    
@@ -61,8 +55,6 @@
  {"key":"xBPQ_网飞猫","name":"🐉┃网飞猫┃","type":3,"api":"csp_XBPQ","ext":{"数组":"<a&&</a>","图片":"data-original=\"&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>","搜索url":"https://www.ncat22.com/search?k=**&page=fypage","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"Netflix$https://www.ncat22.com/label/netflix.html#电影$1#电视剧$2#综艺$4#动漫$3"}},  
  
  {"key": "宇航影视1","name": "🐉┃宇航影视┃","type": 3,"api": "csp_XBPQ","ext": {"分类url":"http://m.zhenguangchem.com/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类":"电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#明星$mingxin#剧情$story#演员$actor角色$rolelist#节目$jiemu" }},
- 
- {"key": "csp_appys_酒客","name": "🐉┃酒客视频┃","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://154.12.19.146/api.php/app/" },
         
  {"key":"明渊","name":"🐉┃明渊影视┃","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://v.miuu.cc/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3#短剧$46"}},
    
