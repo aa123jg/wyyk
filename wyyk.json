@@ -31,22 +31,6 @@
  {"key": "太平","name": "🐉┃太平秒播┃","type": 3,"api": "csp_Xdai","jar":"http://tv.laohu.cool/lh241114.jar","playerType": 1,"ext": "caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
  
  {"key": "强大","name": "🐉┃强大秒播┃","type": 3,"api": "csp_Frong","jar":"http://tv.laohu.cool/lh241114.jar","playerType": 2,"ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
- 
- {"key": "csp_SP33","name": "🐉┃360影视┃","type": 3,"api": "csp_SP360","jar":" ./jars/ou.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
- 
- {"key": "瓜子","name": "🐉┃瓜子APP┃","type": 3,"api": "csp_Gz360","jar":" ./jars/1106.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"order_num": 0,"changeable": 0}, 
- 
- {"key": "可可","name": "🐉┃可可纯净┃","type": 3,"api":"csp_Kekys","jar":"./jars/moyu.php","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1}, 
- 
- {"key": "糯米","name": "🐉┃糯米纯净┃","type": 3,"api": "csp_Nmys","jar":"./jars/okjpg.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},
-
- {"key": "苹果","name": "🐉┃苹果纯净┃","type": 3,"api": "csp_LiteApple","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 0,"changeable": 1},
- 
- {"key": "比特","name": "🐉┃比特纯净┃","type": 3,"api": "csp_Bttwoo","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 1,"changeable": 1},
- 
- {"key": "酷影视","name": "🐉┃酷影纯净┃","type": 3,"api": "csp_AppYsV2","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
-
- {"key": "小马","name": "🐉┃小马纯净┃","type": 3,"api": "csp_AppYsV2","jar":"./jars/moyu.php","ext": "https://mas.szyyds.cn/api.php/app/"},
    
  {"key": "BT4K影院","name": "🐉┃BT4K影院┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "http://www.bt4kyy.cc/l/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "1&2&3&4"} }, 
        
