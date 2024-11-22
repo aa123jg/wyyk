@@ -43,8 +43,7 @@
  
  {"key": "可可","name": "🐉┃可可纯净┃","type": 3,"api":"csp_Kekys","jar":"./jars/moyu.php","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1}, 
  
- {"key": "糯米","name": "🐉┃糯米纯净┃","type": 3,"api": "csp_Nmys","jar":"./jars/okjpg.txt","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},
-
+ 
  {"key": "苹果","name": "🐉┃苹果纯净┃","type": 3,"api": "csp_LiteApple","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 0,"changeable": 1},
  
  {"key": "比特","name": "🐉┃比特纯净┃","type": 3,"api": "csp_Bttwoo","jar":"./jars/moyu.php","searchable": 1,"quickSearch": 1,"changeable": 1},
