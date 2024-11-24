@@ -20,9 +20,9 @@
  
  {"key": "csp_Wwys","name": "🐉┃汪汪高清┃","type": 3,"playerType": 1,"changeable": 0,"api": "csp_Wwys","jar":" ./jars/1106.jar","ext": "https://www.wwgz.cn/"},
 
- {"key": "南瓜","name": "🐉┃南瓜多线┃","type": 3,"api": "csp_NanGua","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+ {"key": "南瓜","name": "🐉┃南瓜多线┃","type": 3,"api": "csp_NanGua","jar":"./jars/木星.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     
- {"key": "木星","name": "🐉┃木星多线┃","type": 3,"api": "csp_AppSx","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},  
+ {"key": "木星","name": "🐉┃木星多线┃","type": 3,"api": "csp_AppSx","jar":"./jars/木星.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},  
                             
  {"key": "糯米","name": "🐉┃糯米秒播┃","type": 3,"api": "csp_Nmys","jar":"./jars/南瓜.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},     
         
