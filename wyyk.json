@@ -14,19 +14,19 @@
 
  {"key":"应用商店","name":"🏫┃应用商店┃","type":3,"api":"csp_Market","searchable":0,"changeable":0,"ext":"./json/yysd.json","jar":"./jars/应用市场.jar"},
  
- {"key": "腾讯","name": "🐉┃腾讯影视┃","type": 3,"api": "https://gitee.com/qihaoyyds/js/raw/master/drpy2.min.js","searchable": 1,"quickSearch": 1,"filterable": 1,"order_num": 0,"changeable": 0,"ext": "https://gitee.com/qihaoyyds/js/raw/master/腾讯影视.js"},
+ {"key": "天天弹幕版","name": "🐉┃天天弹幕┃","type": 3,"api": "csp_TianTian","jar":"./jars/天天.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true },"timeout": 10 },
  
- {"key": "客星","name": "🐉┃客星高清┃","type": 3,"api": "csp_Xdai","playerType": 2,"ext": "caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM=","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729754716332/qj.jar;md5;1c2663a32f99e9e488cb4777ba1ea73f"},
+ {"key": "农民弹幕","name": "🐉┃农民弹幕┃","type": 3,"api": "csp_Nmys","jar":" ./jars/spo.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
  
  {"key": "csp_Wwys","name": "🐉┃汪汪高清┃","type": 3,"playerType": 1,"changeable": 0,"api": "csp_Wwys","jar":" ./jars/1106.jar","ext": "https://www.wwgz.cn/"},
 
  {"key": "南瓜","name": "🐉┃南瓜多线┃","type": 3,"api": "csp_NanGua","jar":"./jars/木星.jar","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
     
  {"key": "木星","name": "🐉┃木星多线┃","type": 3,"api": "csp_AppSx","jar":"./jars/木星.jar","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},  
-                            
+ 
+ {"key": "萌米","name": "🐉┃萌米多线┃","type": 3,"api": "csp_AppTT", "playerType": 2,"jar":"./jars/萌米.jar","searchable": 1,"quickSearch": 0,"changeable": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==" },                          
+
  {"key": "糯米","name": "🐉┃糯米秒播┃","type": 3,"api": "csp_Nmys","jar":"./jars/南瓜.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},     
-        
- {"key": "农民弹幕","name": "🐉┃农民弹幕┃","type": 3,"api": "csp_Nmys","jar":" ./jars/spo.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
  
  {"key": "csp_SuBaiBai","name": "🐉┃素白影视┃","type": 3,"api": "csp_SuBaiBai","jar":" ./jars/素白.jar","ext": "http://subaibai.com" },
  
@@ -35,12 +35,8 @@
  {"key": "雨滴","name": "🐉┃雨滴App┃","type": 3,"api": "csp_Xdai","jar":"http://tv.laohu.cool/lh241114.jar","playerType": 1,"ext": "jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"},
                
  {"key": "优质","name": "🐉┃优质App┃","type": 3,"api": "csp_Xdai","jar":"http://tv.laohu.cool/lh241114.jar","playerType": 1,"ext": "jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"},
- 
- {"key": "强大","name": "🐉┃强大秒播┃","type": 3,"api": "csp_Frong","jar":"http://tv.laohu.cool/lh241114.jar","playerType": 2,"ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
    
  {"key": "BT4K影院","name": "🐉┃BT4K影院┃","type": 3,"api": "csp_XBPQ","jar": "./jars/XBPQ.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "http://www.bt4kyy.cc/l/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html","分类": "电影&电视剧&综艺&动漫","分类值": "1&2&3&4"} }, 
-       
- {"key": "木叶","name": "🐉┃BG木叶┃","type": 3,"api": "csp_Muye","playerType": 1,"jar": "http://cdn.qiaoji8.com/fix24914.jar","ext": "cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4" },  
 
  {"key":"xBPQ_网飞猫","name":"🐉┃网飞猫┃","type":3,"api":"csp_XBPQ","ext":{"数组":"<a&&</a>","图片":"data-original=\"&&\"","标题":"ＫкyＳ01.coм</div>&&</div>","副标题":"提供</span>&&</span>","导演":"导演:</div>&&</div>","演员":"演员:</div>&&</div>","简介":"class=\"detail-desc\">&&</div>","线路数组":"swiper-slide source-swiper-slide&&</div>[排序:超清>4K>蓝光]","线路标题":"</span>&&</span>","搜索url":"https://www.ncat22.com/search?k=**&page=fypage","分类url":"https://www.ncat22.com/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"Netflix$https://www.ncat22.com/label/netflix.html#电影$1#电视剧$2#综艺$4#动漫$3"}},  
  
@@ -52,7 +48,7 @@
  
  { "key": "CYMOVIE", "name": "🐉┃CYMOVIE┃", "type":3,"api":"csp_XBPQ", "ext": {"线路数组": "data-dropdown-value=&&</div>[不包含:❤超清无广]","分类url":"http://movie.yzcyj.net/index.php/vod/show/id/{cateId}/page/{catePg}.html","分类":"连续剧$2#电影$1#综艺$3#动漫$4#短剧$32"}},
 
- {"key": "yigeG影视","name": "🐉┃一个G影视┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "https://yigeg.pro/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---year.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5" } },
+ {"key": "yigeG影视","name": "🐉┃一个G影视┃","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"分类url": "https://www.ygg01.com/vodshow/{cateId}-{area}-{by}-{class}--{letter}---{catePg}---year.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5" } },
 
  {"key": "文才弹幕","name": "🐉┃文采蓝光┃","type": 3,"api": "csp_Jpys","jar": "./jars/配置中心.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": {"danmu": true } },
   
