@@ -26,7 +26,7 @@
  
  {"key": "萌米","name": "🐉┃萌米多线┃","type": 3,"api": "csp_AppTT", "playerType": 2,"jar":"./jars/萌米.jar","searchable": 1,"quickSearch": 0,"changeable": 1,"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==" },                          
 
- {"key": "糯米","name": "🐉┃糯米秒播┃","type": 3,"api": "csp_Nmys","jar":"./jars/南瓜.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"timeout": 10},     
+ {"key": "洽洽影视","name": "🐉┃洽洽影视┃","type": 3,"jar":"./jars/xx.jar","api": "csp_AppGZ","searchable": 1,"quickSearch": 0,"filterable": 1},      
  
  {"key": "csp_SuBaiBai","name": "🐉┃素白影视┃","type": 3,"api": "csp_SuBaiBai","jar":" ./jars/素白.jar","ext": "http://subaibai.com" },
  
