@@ -1,0 +1,42 @@
+    {
+    
+    //https://czzy.top/
+    "站名":"厂长资源",
+    "主页url":"https://www.czzyvideo.com/",
+    
+    "简介":"请勿相信影片中的广告，以免上当受骗！+<div class=\"yp_context\">&&</div>",  
+    "导演":"导演：&&</li>", 
+    "主演":"主演：&&</li>",
+    "影片年代":"年份：&&</li>",  
+    "影片地区":"地区：&&</li>",
+    "影片类型":"类型：&&</li>",
+     
+    "数组":"<li>&&class=\"nostag\"",  
+    "图片":"data-original=\"&&\"", 
+    "标题":"alt=\"&&\"",   
+    "链接":"href=\"&&\"", 
+    "副标题":"jidi\">&&</div>+furk\">&&</div>+rating\">&&</div>",
+    
+    "搜索模式":"1", 
+    "搜索url":"https://www.czzyvideo.com/daoyongjiek0shibushiyoubing?q={wd}",
+
+"请求头": "User-Agent$Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36#Referer$https://www.czspp.com#Cookie$esc_search_captcha=1",   
+    "搜索数组":"<li>&&class=\"nostag\"",  
+    "搜索副标题":"<span>&&</span>",    
+    "搜索标题":"<h3 class=\"dytit\">&&</h3>",   
+    "搜索链接":"href=\"&&\"",   
+    "搜索图片":"data-original=\"&&\"",
+    
+    "线路数组":"<div class=\"mi_paly_box\">&&</div>",
+    "线路标题":"<span>&&</span>[替换:在线观看>>厂长外剧]", 
+    "播放数组":"<div class=\"paly_list_btn\">&&</div>",
+    "播放列表":"<a&&/a>",
+  
+    "播放标题":">&&<[替换:立即播放>>空]",
+    "播放链接":"href=\"&&\"",
+    
+    "分类url":"https://www.czzyvideo.com/movie_bt/year/{year}/movie_bt_tags/{class}/movie_bt_series/{cateId}/page/{catePg}",
+    "分类":"豆瓣电影Top250&最新电影&剧场版&国产剧&美剧&韩剧&番剧&俄罗斯电影&加拿大电影&华语电影&印度电影&日本电影&韩国电影&海外剧&短剧&情色😍",
+    "分类值":"dbtop250&zuixindianying&dongmanjuchangban&gcj&meijutt&hanjutv&fanju&movie_bt_series/eluosidianying&movie_bt_series/jianadadianying&movie_bt_series/huayudianying&movie_bt_series/yindudianying&movie_bt_series/ribendianying&movie_bt_series/hanguodianying&haiwaijuqita&https://www.czzyvideo.com/movie_bt/movie_bt_tags/dp/&https://www.czzyvideo.com/movie_bt/movie_bt_tags/qingse/"
+    }
+    
