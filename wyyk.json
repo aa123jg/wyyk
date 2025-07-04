@@ -2,8 +2,8 @@
 
  {"wallpaper":"http://我不是.肥猫.live/ppic/feimao.php",
  "spider":"./jar/spider.jar",
- "lives":[{"name":"live直播",
-               "type":0,"url":"https://5141.kstore.space/wyy-a/lives/live直播.txt",
+ "lives":[{"name":"我的直播",
+               "type":0,"url":"https://5141.kstore.space/wyy-a/lives/我的直播.txt",
                "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
                "logo":"https://epg.112114.xyz/logo/{name}.png"
                }
